@@ -1,0 +1,9 @@
+rm -rf ./dist
+clear
+if [[ $1 = "debug" ]]
+then
+    nest start --watch --debug 9229
+else 
+    nest start --watch
+fi
+

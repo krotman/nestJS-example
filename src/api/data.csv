@@ -1,0 +1,606 @@
+ID produktu SKU	Meno produktu	Kategória	E-shop cena (MJ) v €	MJ	Cena pred akciou	Cena 1kg	Bal (MJ)	MOQ (MJ)	Balenie (ks)	Hmotnosť (MJ)	Hmotnosť (bal)	Doprava	Cena dopravy v €	Návin	Hrúbka	Šírka	Šírka po rozložení	Obvod	Farba	Text	Hmotnosť dutinky	Nosnosť	Prieťažnosť	Objem	Vlastnosť	Vonkajšia dĺžka	Vonkajšia šírka	Vonkajšia výška	Vnútorná dĺžka	Vnútorná šírka	Vnútorná výška	Vrstvy papiera	Skupina	Súvisiaci produkt 1	Súvisiaci produkt 2	Súvisiaci produkt 3	Súvisiaci produkt 4	Súvisiaci produkt 5	Popis produktu / Podkategórie
+99001561	"Stretch fólia 500mm 23μm 1,5kg netto "	"Ručná stretch fólia 100, 125, 250mm Transparetná"	2.9000	ks	2.9000		6	6		1.7	11	1		140m	23μm																								1-1 Stretch fólia
+99001592	"Stretch fólia 500mm 23μm 2,1kg "	Ručná stretch fólia 500mm Transparentná	3.4000	ks			6	6		2.1	13	1		135m	23μm	500mm			Transparent		700g													99001740	99000241	99001296	99000086	99000556	1-1 Stretch fólia
+99001296	"Stretch fólia 500mm 23μm 2,1kg Čierna"	Ručná stretch fólia 500mm Farebná	3.8000	ks			6	6		2.1	13	1		135m	23μm	500mm			Čierna		700g													99001740	99000241	99001592	99000086	99000556	1-1 Stretch fólia
+99005159	"Stretch fólia 500mm 23μm 2,1kg Biela"	Ručná stretch fólia 500mm Farebná	4.2000	ks			6	6		2.1	13	1		135m	23μm	500mm			Biela		700g													99001740	99000241	99001296	99000086	99000556	1-1 Stretch fólia
+99001053	Stretch fólia 500mm 17μm 300m 	Ručná stretch fólia 500mm Transparentná	4.1000	ks	4.6000		6	6		2.1	15	1		300m	17μm	500mm			Transparent		240g													99001740	99000241	99001296	99001592	99000556	1-1 Stretch fólia
+99001246	Stretch fólia 500mm 20μm 300m	Ručná stretch fólia 500mm Transparentná	5.4000	ks			6	6		2.78	17	1		300m	20μm	500mm			Transparent		240g													99001740	99000241	99001296	99000086	99000556	1-1 Stretch fólia
+99002526	"Stretch fólia 500mm 23μm 1,9kg  "	Ručná stretch fólia 500mm Transparentná	3.1000	ks			6	6		1.9	12	1		115m	23μm	500mm			Transparent		700g													99001740	99000241	99001296	99000086	99000556	1-1 Stretch fólia
+99001899	Stretch fólia 500mm 23μm 250m 	Ručná stretch fólia 500mm Transparentná	4.9000	ks			6	6		2.65	16.5	1		250m	23μm	500mm			Transparent		240g													99001740	99000241	99001296	99000086	99000556	1-1 Stretch fólia
+99000919	"Stretch fólia 500mm 30μm 2,1kg"	Ručná stretch fólia 500mm Transparentná	3.6000	ks			6	6		2.1	13	1		105m	30μm	500mm			Transparent		700g													99001740	99000241	99001296	99000086	99000556	1-1 Stretch fólia
+99000086	Stretch fólia 100mm 20μm 150m	"Ručná stretch fólia 100, 125, 250mm Transparetná"	0.6500	ks	0.7500		50	50			17	1		150m	20μm	100mm			Transparent															99001187	99003300	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99001238	Stretch fólia 100mm 20μm 150m s rúčkou	"Ručná stretch fólia 100, 125, 250mm Transparetná"	0.8000	ks			27	27			11	1		150m	20μm	200mm			Transparent															99001187	99003300	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99000286	Stretch fólia 125mm 20μm 150m	"Ručná stretch fólia 100, 125, 250mm Transparetná"	0.8500	ks			34	34			15	1		150m	20μm	125mm			Transparent															99001187	99003300	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99001036	Stretch fólia 125mm 20μm 150m s rúčkou	"Ručná stretch fólia 100, 125, 250mm Transparetná"	0.9000	ks			20	20			16	1		150m	20μm	230mm			Transparent															99001187	99003300	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99000788	Stretch fólia 250mm 23μm 135m	"Ručná stretch fólia 100, 125, 250mm Transparetná"	1.8000	ks			12	12			13	1		135m	23μm	250mm			Transparent															99001187	99003300	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99003300	Stretch fólia 100mm 23μm 150m Čierna	"Ručná stretch fólia 100, 125, 250mm Čierna"	0.9000	ks			50	50			19	1		150m	23μm	100mm			Čierna															99001187	99000086	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99003407	Stretch fólia 100mm 23μm 150m s ručkou Čierna	"Ručná stretch fólia 100, 125, 250mm Čierna"	1.0000	ks			27	27			12	1		150m	23μm	200mm			Čierna															99001187	99000086	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99004529	Stretch fólia 125mm 23μm 150m Čierna	"Ručná stretch fólia 100, 125, 250mm Čierna"	1.2000	ks			32	32			15	1		150m	23μm	125mm			Čierna															99001187	99000086	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99004451	Stretch fólia 125mm 23μm 150m s rúčkou Čierna	"Ručná stretch fólia 100, 125, 250mm Čierna"	1.3000	ks			20	20			14	1		150m	23μm	230mm			Čierna															99001187	99000086	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99001361	Stretch fólia 250mm 23μm 135m Čierna	"Ručná stretch fólia 100, 125, 250mm Čierna"	2.2000	ks			12	12			13	1		150m	23μm	250mm			Čierna															99001187	99000086	99001592	99000208	99000556	"1-1-3 100mm, 125mm, 250mm ručná stretch fólia"
+99004642	Stretch fólia 500mm 8μm 550m	Ručná stretch fólia 500mm Transparentná	6.8000	ks			6	6			14	1		550m	8μm	500mm			Transparent															99001740	99000241	99001296	99000086	99000556	1-1-4 Viacvrstvové stretch fólie / Superstretch
+99004592	Stretch fólia predpätá 425mm 7μm 600m	Ručná stretch fólia 500mm Transparentná	5.1000	ks			6	6			13	1		600m	7μm	500mm			Transparent															99001740	99000241	99001296	99000086	99000556	1-1-4 Viacvrstvové stretch fólie / Superstretch
+99000644	Stretch fólia strojová 500mm 17μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	23.6800	ks		1.4800	1	1		16	16	1		1900m	17μm	500mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99000680	Stretch fólia strojová 500mm 20μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	23.6800	ks		1.4800	1	1		16	16	1		1600m	20μm	500mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99000539	Stretch fólia strojová 500mm 23μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	21.6000	ks		1.3500	1	1		16	16	1		1450m	23μm	500mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99000730	Stretch fólia strojová 500mm 30μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	23.6800	ks		1.4800	1	1		16	16	1		1100m	30μm	500mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99001528	Stretch fólia strojová 500mm 23μm 150% Čierna	"Strojová stretch fólia 100, 125, 250, 500mm "	26.4000	ks		1.6500	1	1		16	16	1		1450m	23μm	500mm			Čierna				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99001262	Stretch fólia strojová 500mm 17μm 250% 	"Strojová stretch fólia 100, 125, 250, 500mm "	30.4000	ks		1.9000	1	1		16	16	1		1900m	17μm	500mm			Transparent				250%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99001188	Stretch fólia strojová 500mm 23μm 250%	"Strojová stretch fólia 100, 125, 250, 500mm "	30.4000	ks		1.9000	1	1		16	16	1		1450m	23μm	500mm			Transparent				250%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99003267	Stretch fólia strojová 250mm 23μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	8.3850	ks		1.9500	2	2		4.3	8.6	1		1450m	23μm	250mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99003847	Stretch fólia strojová 125mm 23μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	4.2900	ks		1.9500	4	4		2.2	8.8	1		650m	23μm	125mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99002897	Stretch fólia strojová 100mm 23μm 150%	"Strojová stretch fólia 100, 125, 250, 500mm "	3.9000	ks		1.9500	5	5		2	10	1		720m	23μm	100mm			Transparent				150%											99001101	99002193	99000454	99005262	99000556	1-1-6 Stretch fólia strojová
+99002541	Sieťovina 500mm 500m 	Ručná sieťovina	9.9000	ks			8	8		2	17	1		500m		500mm			Transparent															99001101	99002193	99000454	99005262	99000556	1-2-1 Ručná sieťovina
+99004048	Sieťovina 600mm 1400m	Strojová sieťovina	51.0000	ks			1	1		9	9	1		1400m		600mm			Transparent															99001101	99002193	99000454	99005262	99000556	1-2-2 Strojová sieťovina
+99001318	Lepiaca páska 12x66 Akryl Transparent	Štandardné lepiace pásky Akryl	0.1800	ks			144	144			6	1		66					Transparent														99001318	99003252	99005262	99001592	99002775	99001788	2-1 Štandardná lepiaca páska
+99002013	Lepiaca páska 19x66 Akryl Transparent	Štandardné lepiace pásky Akryl	0.2000	ks			96	96			6	1		66					Transparent														99001318						2-1 Štandardná lepiaca páska
+99001338	Lepiaca páska 25x66 Akryl Transparent	Štandardné lepiace pásky Akryl	0.2500	ks			72	72			6	1		66					Transparent														99001318						2-1 Štandardná lepiaca páska
+99003223	Lepiaca páska 38x66 Akryl Transparent	Štandardné lepiace pásky Akryl	0.3800	ks			48	48			6	1		66					Transparent														99001318						2-1 Štandardná lepiaca páska
+99000341	Lepiaca páska 48x66 Akryl Transparent	Štandardné lepiace pásky Akryl	0.4800	ks			36	36			6	1		66					Transparent														99001318						2-1 Štandardná lepiaca páska
+99003475	Lepiaca páska 48x66 Akryl Havana	Štandardné lepiace pásky Akryl	0.4800	ks			36	36			6	1		66					Hnedá														99001318						2-1 Štandardná lepiaca páska
+99002164	Lepiaca páska 75x66 Akryl Transparent	Štandardné lepiace pásky Akryl	0.6500	ks			24	24			6	1		66					Transparent														99001318						2-1 Štandardná lepiaca páska
+99002476	Lepiaca páska 75x66 Akryl Havana	Štandardné lepiace pásky Akryl	0.6500	ks			24	24			6	1		66					Hnedá														99001318						2-1 Štandardná lepiaca páska
+99000556	Lepiaca páska 48x66 Hotmelt Transparent	Štandardné lepiace pásky Hotmelt	0.4200	ks	0.4800		36	36			6	1		66					Transparent														99000556	99003252	99005262	99001592	99000341	99001788	2-1 Štandardná lepiaca páska
+99000559	Lepiaca páska 48x66 Hotmelt Havana	Štandardné lepiace pásky Hotmelt	0.4200	ks	0.4800		36	36			6	1		66					Hnedá														99000556						2-1 Štandardná lepiaca páska
+99002646	Lepiaca páska 75x66 Hotmelt Havana	Štandardné lepiace pásky Hotmelt	0.7500	ks			24	24			6	1		66					Hnedá														99000556						2-1 Štandardná lepiaca páska
+99003650	Lepiaca páska 75x66 Hotmelt Transparent	Štandardné lepiace pásky Hotmelt	0.7500	ks			24	24			6	1		66					Transparent														99000556						2-1 Štandardná lepiaca páska
+99002175	Lepiaca páska 48x66 Solvent Transparent	Štandardné lepiace pásky Solvent	0.4800	ks	0.6000		36	36			6	1		66					Transparent														99002175	99003252	99005262	99001592	99002791	99001788	2-1 Štandardná lepiaca páska
+99003921	Lepiaca páska 48x66 Solvent Havana	Štandardné lepiace pásky Solvent	0.4800	ks	0.6000		36	36			6	1		66					Transparent														99002175						2-1 Štandardná lepiaca páska
+99005073	Lepiaca páska 75x66 Solvent Havana	Štandardné lepiace pásky Solvent	0.9600	ks			24	24			6	1		66					Hnedá														99002175						2-1 Štandardná lepiaca páska
+99003181	Lepiaca páska 50x50 Solvent Papierová hnedá	Štandardné lepiace pásky Solvent	1.5000	ks			36	36			9	1		50m					Hnedá														99002175						2-1 Štandardná lepiaca páska
+99003341	Lepiaca páska 48x66 Akryl Biela	Farebné lepiace pásky 	0.5500	ks			36	36			6	1		66					Hnedá														99003341	99003252	99005262	99001592	99000341	99001788	2-1-4 Farebné lepiace pásky
+99001206	Lepiaca páska 48x66 Akryl Žtlá	Farebné lepiace pásky 	0.5500	ks			36	36			6	1		66					Biela														99003341						2-1-4 Farebné lepiace pásky
+99001432	Lepiaca páska 48x66 Akryl Červená	Farebné lepiace pásky 	0.5500	ks			36	36			6	1		66					Červená														99003341						2-1-4 Farebné lepiace pásky
+99002590	Lepiaca páska 48x66 Akryl Zelená	Farebné lepiace pásky 	0.5500	ks			36	36			6	1		66					Zelená														99003341						2-1-4 Farebné lepiace pásky
+99002775	Lepiaca páska 48x66 Akryl Modrá	Farebné lepiace pásky 	0.5500	ks			36	36			6	1		66					Mondrá														99003341						2-1-4 Farebné lepiace pásky
+99005024	Lepiaca páska 48x66 Akryl Čierna	Farebné lepiace pásky 	0.5500	ks			36	36			6	1		66					Čierna														99003341						2-1-4 Farebné lepiace pásky
+99002045	Lepiaca páska strojová 48x990 28μm Havana	Strojové lepiace pásky	9.2000	ks			6	6			13	1		990m		48mm			Havana															99001592	99001257	99000539	99001878	99002193	2-1-5 Strojové lepiace pásky
+99002914	Lepiaca páska strojová 48x990 25μm Trasnparentná	Strojové lepiace pásky	8.5000	ks			6	6			13	1		990m		48mm			Transparent															99001592	99001257	99000539	99001878	99002193	2-1-5 Strojové lepiace pásky
+99001426	Lepiaca páska PVC na podlahy 50x33 Žltá	PVC lepiace pásky na podlahy	3.9900	ks			3	3			1	1							Žltá														99001426	99002272	99001592	99001171	99000341	99000208	2-4 Lepiaca páska na podlahy - PVC
+99002397	Lepiaca páska PVC na podlahy 50x33 Biela	PVC lepiace pásky na podlahy	4.5000	ks			3	3			1	1							Biela														99001426						2-4 Lepiaca páska na podlahy - PVC
+99001985	Lepiaca páska PVC na podlahy 50x33 Červená	PVC lepiace pásky na podlahy	4.5000	ks			3	3			1	1							Červená														99001426						2-4 Lepiaca páska na podlahy - PVC
+99001955	Lepiaca páska PVC na podlahy 50x33 Žlto-čierna	PVC lepiace pásky na podlahy	4.5000	ks			3	3			1	1							Žlto-zelená														99001426						2-4 Lepiaca páska na podlahy - PVC
+99002609	Lepiaca páska PVC na podlahy 50x33 Červeno-biela	PVC lepiace pásky na podlahy	4.5000	ks			3	3			1	1							Červeno-biela														99001426						2-4 Lepiaca páska na podlahy - PVC
+99001984	Lepiaca páska PVC na podlahy 50x33 Modrá	PVC lepiace pásky na podlahy	4.5000	ks			3	3			1	1							Modrá														99001426						2-4 Lepiaca páska na podlahy - PVC
+99001951	Lepiaca páska PVC na podlahy 50x33 Zelená	PVC lepiace pásky na podlahy	4.5000	ks			3	3			1	1							Zelená														99001426						2-4 Lepiaca páska na podlahy - PVC
+99001554	Lepiaca páska PVC na podlahy 100x33 Žltá	PVC lepiace pásky na podlahy	9.8000	ks			3	3			2	1							Žltá														99001426						2-4 Lepiaca páska na podlahy - PVC
+99004639	Lepiaca páska PVC na podlahy 100x33 Žlto-čierna	PVC lepiace pásky na podlahy	9.8000	ks			3	3			2	1							Žlto-čierna														99001426						2-4 Lepiaca páska na podlahy - PVC
+99004490	Lepiaca páska PVC na podlahy 100x33 Červená	PVC lepiace pásky na podlahy	9.8000	ks			3	3			2	1							Červená														99001426						2-4 Lepiaca páska na podlahy - PVC
+99003975	Lepiaca páska PVC montážna 19x25 Čierna 	Špeciálne lepiace pásky	1.4000	ks			10	10			1	1							Čierna															99002272	99001614	99005079	99001592	99001762	2-4 Lepiaca páska na podlahy - PVC
+99003060	Lepiaca páska PVC montážna 30x33 Žltá 	Špeciálne lepiace pásky	1.2000	ks			15	15			3	1							Žltá															99002551	99002272	99000700	99001288	99001592	2-4 Lepiaca páska na podlahy - PVC
+99001287	Lepiaca páska PVC montážna 38x33 Žltá 	Špeciálne lepiace pásky	1.5000	ks			12	12			3	1							Žltá															99001922	99002272	99000700	99001288	99001592	2-4 Lepiaca páska na podlahy - PVC
+99001288	Lepiaca páska PVC montážna 48x33 Žltá 	Špeciálne lepiace pásky	1.9000	ks			6	6			2	1							Žltá															99001197	99002272	99000700	99001288	99001592	2-4 Lepiaca páska na podlahy - PVC
+99002907	Obojstranná lepiaca páska 25x25	Špeciálne lepiace pásky	1.3000	ks			15	15			2	1																						99001171	99005079	99002272	99003060	99001592	2-5-1 Obojstranná lepiaca páska
+99001195	Obojstranná lepiaca páska 38x25 	Špeciálne lepiace pásky	1.7000	ks			6	6			2	1																						99001171	99005079	99002272	99003060	99001592	2-5-1 Obojstranná lepiaca páska
+99001171	Obojstranná lepiaca páska 48x25 	Špeciálne lepiace pásky	2.1000	ks			5	5			2	1																						99001171	99005079	99002272	99003060	99001592	2-5-1 Obojstranná lepiaca páska
+99005079	Obojstranná lepiaca páska 50x10 s vláknami	Špeciálne lepiace pásky	1.9000	ks			5	5			1	1																						99004480	99001171	99002272	99000700	99002913	2-5-1 Obojstranná lepiaca páska
+99004480	Obojstranná lepiaca páska 50x25 s vláknami	Špeciálne lepiace pásky	4.2000	ks			5	5			2	1																						99005079	99001171	99002272	99000700	99002913	2-5-1 Obojstranná lepiaca páska
+99001391	Obojstranná lepiaca páska 19x50 penová	Špeciálne lepiace pásky	10.5000	ks			1	1			1	1																						99002907	99005079	99002272	99000700	99003060	2-5-1 Obojstranná lepiaca páska
+99002272	Lepiaca páska 50x50 strieborná Duct tape	Špeciálne lepiace pásky	2.5000	ks			3	3			1	1							Strieborná															99000700	99001614	99002913	99005079	99003060	2-5-2 Textilná lepiaca páska
+99000700	Lepiaca páska 50x50 pozdĺžne vlákna Filament	Špeciálne lepiace pásky	2.8000	ks			3	3			1	1							Transparent															99002272	99001614	99002913	99005079	99003060	2-5-2 Textilná lepiaca páska
+99002751	Lepiaca páska 50x50 pozdĺžne-priečne vlákna Filament	Špeciálne lepiace pásky	3.8000	ks			3	3			1	1							Transparent															99002272	99001614	99002913	99005079	99003060	2-5-2 Textilná lepiaca páska
+99001614	Lepiaca páska kobercová 48x10 	Špeciálne lepiace pásky	2.5000	ks			5	5			1	1							Rôzne															99002272	99001592	99002913	99005079	99003060	2-5-2 Textilná lepiaca páska
+99003774	Lepiaca páska hliníková 50x50 	Špeciálne lepiace pásky	4.5000	ks			3	3			1	1							Strieborná															99002272	99001592	99002913	99005079	99003060	2-5-2 Textilná lepiaca páska
+90002912	Lepiaca páska 25x66 modrá Monta	Špeciálne lepiace pásky	3.4000	ks			3	3			1	1							Modrá	Na okná 														99000700	99002272	99002907	99003060	99001592	2-5-2 Textilná lepiaca páska
+90002913	Lepiaca páska 50x66 modrá Monta	Špeciálne lepiace pásky	6.6000	ks			3	3			1	1							Modrá	Na okná 														99000700	99002272	99001171	99001288	99001592	2-5-2 Textilná lepiaca páska
+99000753	Krepová lepiaca páska 19x50 60°C	Maskovacia maliarska lepiaca páska	0.3800	ks			48	48			5	1							Žltá															99002550	99001102	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99000832	Krepová lepiaca páska 25x50 60°C	Maskovacia maliarska lepiaca páska	0.5000	ks			36	36			5	1							Žltá															99001746	99001102	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99002187	Krepová lepiaca páska 30x50 60°C	Maskovacia maliarska lepiaca páska	0.6000	ks			40	40			7	1							Žltá															99002551	99000691	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99001252	Krepová lepiaca páska 38x50 60°C	Maskovacia maliarska lepiaca páska	0.7300	ks			24	24			5	1							Žltá															99001922	99000753	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99001202	Krepová lepiaca páska 75x50 60°C	Maskovacia maliarska lepiaca páska	1.4400	ks			16	16			7	1							Žltá															99001197	99000753	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99000691	Krepová lepiaca páska 50x50 60°C	Maskovacia maliarska lepiaca páska	0.9000	ks			24	24			7	1							Žltá															99001197	99000832	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99001102	Krepová lepiaca páska 96x50 60°C	Maskovacia maliarska lepiaca páska	1.9000	ks			12	12			6	1							Žltá															99001197	99000753	99001592	99002108	99003560	2-2-2 Maskovacia maliarska lepiaca páska
+99002550	Krepová lepiaca páska 19x50 80°C	Lakýrnická krepová lepiaca páska	0.4300	ks			48	48			7	1							Žltá															99000753	99001197	99001592	99002108	99003560	2-2-1 Lakýrnická krepová lepiaca páska
+99001746	Krepová lepiaca páska 25x50 80°C	Lakýrnická krepová lepiaca páska	0.7200	ks			72	72			10	1							Žltá															99000832	99001197	99001592	99002108	99003560	2-2-1 Lakýrnická krepová lepiaca páska
+99002551	Krepová lepiaca páska 30x50 80°C	Lakýrnická krepová lepiaca páska	0.9200	ks			60	60			7	1							Žltá															99002187	99001953	99001592	99002108	99003560	2-2-1 Lakýrnická krepová lepiaca páska
+99001922	Krepová lepiaca páska 38x50 80°C	Lakýrnická krepová lepiaca páska	1.1500	ks			48	48			7	1							Žltá															99001252	99001197	99001592	99002108	99003560	2-2-1 Lakýrnická krepová lepiaca páska
+99001953	Krepová lepiaca páska 50x50 80°C Biela	Lakýrnická krepová lepiaca páska	1.4500	ks			36	36			8	1							Biela															99001197	99000691	99001592	99002108	99003560	2-2-1 Lakýrnická krepová lepiaca páska
+99001197	Krepová lepiaca páska 50x50 80°C	Lakýrnická krepová lepiaca páska	1.4400	ks			36	36			8	1							Žltá															99000691	99001746	99001592	99002108	99003560	2-2-1 Lakýrnická krepová lepiaca páska
+99001762	Lepiaca páska izolačná 15x10 Izolepa	Špeciálne lepiace pásky	0.3500	ks			60	60			3	1							Rôzne															99000700	99002272	99001171	99001288	99001592	2-2-1 Lakýrnická krepová lepiaca páska
+99001348	"PP páska 5x0,45 200mm 7000m Biela"	PP pásky	28.5000	ks			1	1			12	1		7000m	"0,45mm"	5mm			Biela															99001023	99000341	99001592	99000086	99000478	3-A1 PP (polypropylénová) páska
+99000107	"PP páska 10x0,45 200mm 3500m Čierna"	PP pásky	25.0000	ks			1	1			12	1		3500m	"0,45mm"	10mm			Čierna															99001382	99000028	99000065	99000050	99000732	3-A1 PP (polypropylénová) páska
+99001390	"PP páska 9x0,55 200mm 3200m Čierna"	PP pásky	24.0000	ks			1	1			12	1		3200m	"0,55mm"	9mm			Čierna															99001382	99000028	99001023	99000732	99000050	3-A1 PP (polypropylénová) páska
+99000022	"PP páska 10x0,35 60mm 900m Čierna"	PP pásky	8.5000	ks			1	1			6	1		900m	"0,35mm"	10mm			Čierna															99001382	99000028	99000065	99000050	99000045	3-A1 PP (polypropylénová) páska
+99001456	"PP páska 12x0,5 200mm 2900m Biela"	PP pásky	25.0000	ks			1	1			12	1							Biela														99001456	99000037	99000030	99000065	99000050	99000045	3-A1 PP (polypropylénová) páska
+99000084	"PP páska 12x0,5 200mm 3000m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99001456						3-A1 PP (polypropylénová) páska
+99000689	"PP páska 12x0,5 406mm 2800m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99001456						3-A1 PP (polypropylénová) páska
+99003519	"PP páska 12x0,55 200mm 3000m Čierna"	PP pásky	27.8000	ks			1	1			12	1		3000m	"0,55mm"	12mm			Čierna															99000037	99000030	99000065	99000050	99000045	3-A1 PP (polypropylénová) páska
+99000018	"PP páska 12x0,7 406mm 2000m Čierna"	PP pásky	23.0000	ks			1	1			12	1		2000m	"0,7mm"	12mm			Čierna															99000037	99000065	99000030	99000050	99000045	3-A1 PP (polypropylénová) páska
+99000795	"PP páska 12x0,8 406mm 1800m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99000795	99000037	99000030	99000065	99000050	99000045	3-A1 PP (polypropylénová) páska
+99000019	"PP páska 12x0,8 200mm 2000m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99000795	99000037	99000065	99000030	99000050	99000045	3-A1 PP (polypropylénová) páska
+99000277	"PP páska 15x0,8 406mm 1500m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99000277	99000039	99000065	99000031	99000050	99000046	3-A1 PP (polypropylénová) páska
+99000492	"PP páska 15x0,8 200mm 1500m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99000277						3-A1 PP (polypropylénová) páska
+99000786	"PP páska 16x0,6 406mm 1800m Biela"	PP pásky	27.5000	ks			1	1			12	1							Biela														99000786	99000039	99000065	99000031	99000050	99000046	3-A1 PP (polypropylénová) páska
+99000119	"PP páska 16x0,6 406mm 1800m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99000786						3-A1 PP (polypropylénová) páska
+99000258	"PP páska 16x0,6 200mm 1800m Čierna"	PP pásky	23.0000	ks			1	1			12	1							Čierna														99000786						3-A1 PP (polypropylénová) páska
+99000719	"PP páska 16x0,7 406mm 1700m Čierna"	PP pásky	23.0000	ks			1	1			12	1		1700m	"0,7mm"	16mm			Čierna															99000039	99000065	99000031	99000050	99000046	3-A1 PP (polypropylénová) páska
+99002431	"PP páska 16x0,8 406mm 1400m Zelená"	PP pásky	29.8000	ks			1	1			12	1							Zelená														99002431						3-A1 PP (polypropylénová) páska
+99002430	"PP páska 16x0,8 406mm 1400m Modrá"	PP pásky	29.8000	ks			1	1			12	1							Modrá														99002431						3-A1 PP (polypropylénová) páska
+99002429	"PP páska 16x0,8 406mm 1400m Biela"	PP pásky	27.5000	ks			1	1			12	1							Biela														99002431						3-A1 PP (polypropylénová) páska
+99000085	"PP páska 16x0,8 200mm 1500m Biela"	PP pásky	26.9000	ks			1	1			12	1							Biela														99002431						3-A1 PP (polypropylénová) páska
+99001333	"PET páska 12x0,6 2500m "	PET pásky	38.0000	ks			1	1			23	1		2500m	"0,6mm"	12mm			Zelená															99000065	99000037	99000050	99004336	99002193	3-A2 PET (polyesterová) páska
+99001230	"PET páska 15,5x0,6 2000m"	PET pásky	38.0000	ks			1	1			23	1		2000m	"0,6mm"	"15,5mm"			Zelená															99000050	99000039	99000065	99004336	99000285	3-A2 PET (polyesterová) páska
+99001231	"PET páska 15,5x0,7 1750m"	PET Pásky	35.0000	ks	38.0000		1	1			23	1		1750m	"0,7mm"	"15,5mm"			Zelená															99000050	99000039	99000065	99004336	99000285	3-A2 PET (polyesterová) páska
+99001332	"PET páska 15,5x0,9 1400m"	PET pásky	38.0000	ks			1	1			23	1		1400m	"0,9mm"	"15,5mm"			Zelená															99000050	99001592	99004336	99002453	99000285	3-A2 PET (polyesterová) páska
+99001354	"PET páska 16x0,8 1200m"	PET pásky	38.0000	ks			1	1			23	1		1200m	"0,8mm"	16mm			Zelená															99000050	99001592	99000065	99004336	99000285	3-A2 PET (polyesterová) páska
+99003366	"PET páska 16x1,0 1000m"	PET pásky	38.0000	ks			1	1			23	1		1000m	10mm	16mm			Zelená															99000050	99001592	99000065	99004336	99000285	3-A2 PET (polyesterová) páska
+99000976	"PET páska 19x1,0 850m"	PET pásky	38.0000	ks			1	1			23	1		850m	10mm	19mm			Zelená															99000050	99001592	99005316	99001592	99002193	3-A2 PET (polyesterová) páska
+99000001	PES páska 9mm 500m Tkaná	PES Pásky Tkané	12.0000	ks			1	1			2	1		500m		9mm			Biela															99000325	99001382	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000002	PES páska 13mm 500m Tkaná 	PES Pásky Tkané	18.0000	ks			1	1			4	1		500m		13mm			Biela															99000325	99000037	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000004	PES páska 13mm 1100m Tkaná	PES Pásky Tkané	35.0000	ks			1	1			9	1		1100m		13mm			Biela															99000325	99000037	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000005	PES páska 16mm 850m Tkaná	PES Pásky Tkané	35.0000	ks			1	1			9	1		850m		16mm			Biela															99000325	99000039	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99002839	PES páska 19mm 500m Tkaná	PES Pásky Tkané	38.0000	ks			1	1			9	1		500m		19mm			Biela															99000325	99000040	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000387	PES páska 19mm 600m Tkaná	PES Pásky Tkané	32.0000	ks	38.0000		1	1			9	1		600m		19mm			Biela															99000325	99000040	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99002173	PES páska 25mm 500m Tkaná	PES Pásky Tkané	43.0000	ks			1	1			11	1		500m		25mm			Biela															99000325	99000042	99003471	99001592	99000208	3-A3 PES (textilná) páska
+99000973	PES páska 25mm 500m Tkaná s potlačou	PES Pásky Tkané	48.0000	ks			1	1			11	1		500m		25mm			Biela															99000325	99000042	99003471	99001592	99000208	3-A3 PES (textilná) páska
+99000645	PES páska 32mm 250m Tkaná	PES Pásky Tkané	54.0000	ks			1	1			11	1		250m		32mm			Biela															99000325	99000988	99000167	99001592	99000208	3-A3 PES (textilná) páska
+99000472	PES páska 38mm 100m Tkaná	PES Pásky Tkané	29.0000	ks			1	1			7	1		100m		38mm			Biela															99000325	99000988	99000167	99001592	99000208	3-A3 PES (textilná) páska
+99001095	Popruh 40mm 5000daN	PES Pásky Tkané	35.0000	ks			1	1			10	1		100m		40mm			Biela															99000325	99001107	99000586	99001592	99000208	3-A3 PES (textilná) páska
+99003417	PES páska 13mm 1100m Lepená	PES Pásky Lepené	33.0000	ks			1	1			9	1		1100m		13mm			Biela															99000325	99000037	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000081	PES páska 16mm 850m Lepená	PES Pásky Lepené	33.0000	ks			1	1			9	1		850m		16mm			Biela															99000325	99000039	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000171	PES páska 19mm 600m Lepená	PES Pásky Lepené	33.0000	ks			1	1			9	1		600m		19mm			Biela															99000325	99000040	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99002427	PES páska 35mm 150m Lepená	PES Pásky Lepené	38.0000	ks			1	1			10	1		150m		35mm			Biela															99000325	99000988	99000167	99001592	99000208	3-A3 PES (textilná) páska
+99000777	PES páska 16mm 850m Kompozitná	PES Pásky Kompozitné	45.0000	ks			1	1			12	1		850m		16mm			Biela															99000325	99000039	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000638	PES páska 19mm 500m Kompozitná	PES Pásky Kompozitné	45.0000	ks			1	1			12	1		500m		19mm			Biela															99000325	99000040	99003528	99001592	99000208	3-A3 PES (textilná) páska
+99000475	PES páska 25mm 400m Kompozitná	PES Pásky Kompozitné	45.0000	ks			1	1			12	1		400m		25mm			Biela															99000325	99000042	99003471	99001592	99000208	3-A3 PES (textilná) páska
+99000010	PES páska 32mm 300m Kompozitná	PES Pásky Kompozitné	66.0000	ks			1	1			14	1		300m		32mm			Biela															99000325	99000988	99000167	99001592	99000208	3-A3 PES (textilná) páska
+99000023	"Oceľová páska 13x0,5 350mm"	Oceľové pásky	15.0000	ks		1.0000	1	1		15	15	1		300m	"0,5mm"	13mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99000043	99001147	99000044	99001592	99000208	3-A4 Oceľové pásky
+99000024	"Oceľová páska 16x0,5 350mm"	Oceľové pásky	22.0000	ks		1.0000	1	1		22	22	1		350m	"0,5mm"	16mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99000043	99001147	99000218	99000044	99001592	3-A4 Oceľové pásky
+99001532	"Oceľová páska 19x0,5 350mm"	Oceľové pásky	24.0000	ks		1.0000	1	1		24	24	1		320m	"0,5mm"	19mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99000043	99001147	99000033	99000044	99000161	3-A4 Oceľové pásky
+99000272	"Oceľová páska 19x0,8 350mm"	Oceľové pásky	25.0000	ks		1.0000	1	1		25	25	1		210m	"0,8mm"	19mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99000043	99001147	99000033	99000044	99000161	3-A4 Oceľové pásky
+99000315	"Oceľová páska 20x0,5 350mm"	Oceľové pásky	24.0000	ks		1.0000	1	1		24	24	1		270m	"0,5mm"	20mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99000043	99001147	99000044	99000161	99001592	3-A4 Oceľové pásky
+99000182	"Oceľová páska 32x0,8mm 350mm"	Oceľové pásky	41.0000	ks		1.0000	1	1		41	41	1		200m	"0,8mm"	32mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99002412	99000162	99000034	99000161	99001592	3-A4 Oceľové pásky
+99000219	"Oceľová páska 16x0,5 350mm Pozinkovaná"	Oceľové pásky	35.3000	ks		1.6000	1	1		22	22	1		350m	"0,5mm"	16mm			Metalová	Faktúrujeme reálnu hmoťnosť oceľovej pásky vypočítanú po potvrdení objednávky na kusy. 														99000043	99001147	99000218	99000044	99001592	3-A4 Oceľové pásky
+99001382	Drôtené spony 9mm Fosfátované	Drôtené spony	0.0180	ks			1000	1000			10	1							Čierna															99001390	99000022	99000001	99000065	99000050	3-B1 Drôtené fosfátované a galvanizované spony
+99000037	Drôtené spony 13mm Fosfátované	Drôtené spony	0.0200	ks			1000	1000			10	1							Čierna															99000084	99001333	99000002	99000065	99000050	3-B1 Drôtené fosfátované a galvanizované spony
+99000039	Drôtené spony 16mm Fosfátované	Drôtené spony	0.0230	ks			1000	1000			12	1							Čierna															99000492	99001230	99000005	99000065	99000050	3-B1 Drôtené fosfátované a galvanizované spony
+99000040	Drôtené spony 19mm Fosfátované	Drôtené spony	0.0300	ks			1000	1000			17	1							Čierna															99002839	99000065	99000050	99003528	99001592	3-B1 Drôtené fosfátované a galvanizované spony
+99000042	Drôtené spony 25mm Fosfátované	Drôtené spony	0.0750	ks			500	500			19	1							Čierna															99000645	99001497	99003471	99001592	99000208	3-B1 Drôtené fosfátované a galvanizované spony
+99000988	Drôtené spony 35mm Fosfátované	Drôtené spony	0.2000	ks			250	250			22	1							Čierna															99000167	99000645	99000472	99001592	99000208	3-B1 Drôtené fosfátované a galvanizované spony
+99000036	Drôtené spony 13mm Galvanizované	Drôtené spony	0.0220	ks			1000	1000			10	1							Strieborná 															99000084	99001333	99000002	99000065	99000050	3-B1 Drôtené fosfátované a galvanizované spony
+99000038	Drôtené spony 16mm Galvanizované	Drôtené spony	0.0250	ks			1000	1000			12	1							Strieborná 															99000492	99001230	99000005	99000065	99000050	3-B1 Drôtené fosfátované a galvanizované spony
+99000771	Drôtené spony 19mm Galvanizované	Drôtené spony	0.0320	ks			1000	1000			17	1							Strieborná 															99002839	99000065	99000050	99003528	99001592	3-B1 Drôtené fosfátované a galvanizované spony
+99000041	Drôtené spony 25mm Galvanizované	Drôtené spony	0.0750	ks			500	500			19	1							Strieborná 															99000645	99001497	99003471	99001592	99000208	3-B1 Drôtené fosfátované a galvanizované spony
+99000028	Plechové spony PP 10	Plechové spony na PP a PET pásku	32.0000	bal			1	1	3500		7	1							Strieborná 	Balenie obsahuje 3500ks.														99001390	99000022	99000732	99000050	99001592	3-B2 Plechové spony
+99000030	Plechové spony PP 13	Plechové spony na PP a PET pásku	23.0000	bal			1	1	3000		11	1							Strieborná 	Balenie obsahuje 3000ks.														99000084	99000045	99000050	99000285	99001592	3-B2 Plechové spony
+99000031	Plechové spony PP 16	Plechové spony na PP a PET pásku	23.0000	bal			1	1	2500		12	1							Strieborná 	Balenie obsahuje 2500ks.														99000492	99000046	99000050	99001592	99000341	3-B2 Plechové spony
+99000032	Plechové spony ORP 16 PET	Plechové spony na PP a PET pásku	0.0700	ks			1000	1000			11	1							Strieborná 															99000492	99000222	99000050	99000285	99001592	3-B2 Plechové spony
+99000774	Plechové spony ORP 13 PET	Plechové spony na PP a PET pásku	0.0600	ks			1000	1000			10	1							Strieborná 															99001333	99000050	99000285	99001592	99000341	3-B2 Plechové spony
+99001497	Plechové spony OP 13	Plechové spony na Oceľovú pásku	75.0000	bal			2000	2000	2000		10	1							Strieborná 	Balenie obsahuje 2000ks.														99001333	99000050	99000285	99001592	99000341	3-B2 Plechové spony
+99000218	Plechové spony OP 16 Zinkované	Plechové spony na Oceľovú pásku	44.0000	bal			2000	2000	2000		12	1							Strieborná 	Balenie obsahuje 2000ks.														99001532	99000043	99001147	99005317	99001592	3-B2 Plechové spony
+99000033	Plechové spony OP 19	Plechové spony na Oceľovú pásku	0.0160	ks			2000	2000			10	1							Strieborná 															99000272	99000043	99001147	99005317	99001592	3-B2 Plechové spony
+99000334	Plechové spony OPX 19	Plechové spony na Oceľovú pásku	0.0600	ks			700	700			10	1							Strieborná 															99000272	99000043	99001147	99005317	99001592	3-B2 Plechové spony
+99000034	Plechové spony OP 32	Plechové spony na Oceľovú pásku	0.0420	ks			300	300			12	1							Strieborná 															99000182	99000161	99000162	99001592	99000208	3-B2 Plechové spony
+99000327	Plastové spony 12-16mm	Plastové spony	0.0130	ks			2000	2000			7	1							Transparent															99000689	99000492	99000065	99000050	99001592	3-B3 Plastové spony
+99000198	Kartonážne spony SHS 35x18mm	Kartonážne spony	4.5000	1000ks			2000	2000	20000		3	1							Transparent	Balenie obsahuje 20000ks. Merná jednotka Kartonážnych spôn je 1000ks. 														99003095	99000492	99000341	99001592	99001101	3-B4 Kartonážne spony
+99002750	HDPE Vrecia 100x150mm	HDPE Voľne ložené tenké vrecia	0.0042	ks			200	2000			0.2	1			20μm				Transparent														99002750	99001564	99001597	99000341	99005235	99000208	4 Vrecia a vrecká
+99002720	HDPE Vrecia 200x300mm	HDPE Voľne ložené tenké vrecia	0.0102	ks			200	1000			0.5	1			20μm				Transparent														99002750						4 Vrecia a vrecká
+99002686	HDPE Vrecia 300x400mm	HDPE Voľne ložené tenké vrecia	0.0186	ks			200	600			1	1			20μm				Transparent														99002750						4 Vrecia a vrecká
+99002806	HDPE Vrecia 600x700mm	HDPE Voľne ložené tenké vrecia	0.0056	ks			500	500			8	1			20μm				Transparent														99002750						4 Vrecia a vrecká
+99002729	HDPE Vrecia 1000x1200mm	HDPE Voľne ložené tenké vrecia	0.1480	ks			200	200			10	1			20μm				Transparent														99002750						4 Vrecia a vrecká
+99002119	LDPE Vrecia 180x260mm	LDPE Voľne ložené tenké vrecia	0.0146	ks			200	1000			0.7	1			40μm				Transparent														99002119	99002686	99001597	99000341	99005235	99000208	4 Vrecia a vrecká
+99001779	LDPE Vrecia 200x300mm	LDPE Voľne ložené tenké vrecia	0.0142	ks			200	1000			0.7	1			40μm				Transparent														99002119						4 Vrecia a vrecká
+99000439	LDPE Vrecia 250x360mm	LDPE Voľne ložené tenké vrecia	0.0202	ks			100	500			0.7	1			40μm				Transparent														99002119						4 Vrecia a vrecká
+99001788	LDPE Vrecia 400x600mm	LDPE Voľne ložené tenké vrecia	0.0380	ks			200	200			3	1			40μm				Transparent														99002119						4 Vrecia a vrecká
+99002739	LDPE Vrecia 500x700mm	LDPE Voľne ložené tenké vrecia	0.0780	ks			300	300			8	1			40μm				Transparent														99002119						4 Vrecia a vrecká
+99000763	LDPE Vrecia 600x700mm	LDPE Voľne ložené tenké vrecia	0.0840	ks			200	200			7	1			40μm				Transparent														99002119						4 Vrecia a vrecká
+99000860	LDPE Vrecia 700x900mm	LDPE Voľne ložené tenké vrecia	0.1414	ks			200	200			10	1			40μm				Transparent														99002119						4 Vrecia a vrecká
+99001549	LDPE Vrecia 200x300mm	LDPE Voľne ložené hrubé vrecia Primár	0.0470	ks			100	200			3	1			100μm				Transparent														99001549	99001779	99001592	99000341	99005245	99000208	4 Vrecia a vrecká
+99002369	LDPE Vrecia 300x400mm	LDPE Voľne ložené hrubé vrecia Primár	0.0660	ks			100	100			3	1			100μm				Transparent														99001549						4 Vrecia a vrecká
+99000877	LDPE Vrecia 400x600mm	LDPE Voľne ložené hrubé vrecia Primár	0.1220	ks			100	100			5	1			100μm				Transparent														99001549						4 Vrecia a vrecká
+99001257	LDPE Vrecia 500x700mm	LDPE Voľne ložené hrubé vrecia Primár	0.2000	ks			100	100			7	1			100μm				Transparent														99001549						4 Vrecia a vrecká
+99003485	LDPE Vrecia 700x900mm	LDPE Voľne ložené hrubé vrecia Primár	0.3280	ks			50	50			6	1			100μm				Transparent														99001549						4 Vrecia a vrecká
+99000921	LDPE Vrecia 550x800mm Regranulát	LDPE Voľne ložené hrubé vrecia Regranulát	0.2400	ks			50	50			5	1			120μm				Transparent														99000921	99001257	99002806	99000341	99001592	99000208	4 Vrecia a vrecká
+99000345	LDPE Vrecia 550x1100mm Regranulát	LDPE Voľne ložené hrubé vrecia Regranulát	0.3080	ks			50	50			7	1			120μm				Transparent														99000921						4 Vrecia a vrecká
+99001587	LDPE Vrecia 700x1100mm Regranulát Extrapevné	LDPE Voľne ložené hrubé vrecia Regranulát	0.3720	ks			50	50			10	1			120μm				Transparent														99000921						4 Vrecia a vrecká
+99001960	LDPE Vrecia 800x1100mm Regranulát	LDPE Voľne ložené hrubé vrecia Regranulát	0.3900	ks			50	50			10	1			110μm				Transparent														99000921						4 Vrecia a vrecká
+99003989	LDPE Vrecia 1400+2x400x1500mm 	LDPE Paletizačné vrecia	1.9660	ks			20	20			10	1			100μm				Transparent															99004615	99001592	99000341	99005298	99000208	4-1-3 Paletizačné vrecia a vrecká
+99001778	Vrecia RZV 40x60mm	Vrecia so zipom	0.0016	ks			1000	1000			0.2	1			40μm				Transparent														99001778	99002750	99002119	99000341	99000208	99001592	4-2 ZIP Vrecia so zipom
+99001218	Vrecia RZV 60x80mm	Vrecia so zipom	2.7283	bal			1	1	1000		0.4	1			40μm				Transparent	Balenie obsahuje 1000ks.													99001778						4-2 ZIP Vrecia so zipom
+99000895	Vrecia RZV 70x100mm	Vrecia so zipom	0.0037	ks			1000	1000			0.6	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99000908	Vrecia RZV 80x120mm	Vrecia so zipom	0.0045	ks			1000	1000			0.8	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99001015	Vrecia RZV 100x150mm	Vrecia so zipom	0.0064	ks			1000	1000			2	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99000894	Vrecia RZV 120x180mm	Vrecia so zipom	0.0091	ks			100	1000			0.2	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99000478	Vrecia RZV 150x220mm	Vrecia so zipom	0.0136	ks			100	500			0.3	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99000420	Vrecia RZV 180x250mm	Vrecia so zipom	0.0179	ks			100	500			0.35	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99000736	Vrecia RZV 200x300mm	Vrecia so zipom	0.0232	ks			100	300			0.5	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99001429	Vrecia RZV 250x350mm	Vrecia so zipom	0.0322	ks			100	200			0.7	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99000924	Vrecia RZV 300x400mm	Vrecia so zipom	0.0445	ks			100	100			0.9	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99002083	Vrecia RZV 350x450mm	Vrecia so zipom	0.0592	ks			100	100			1.2	1			40μm				Transparent														99001778						4-2 ZIP Vrecia so zipom
+99001846	Odpadové vrecia 600x700mm Čierne	Odpadové vrecia	0.0459	ks			25	125			0.7	1			35μm			1200mm	Čierna					60l									99001846	99000341	99000763	99002806	99001592	99001587	4-3 Odpadové vrecia
+99002094	Odpadové vrecia 500x600mm Čierne	Odpadové vrecia	0.0333	ks			25	200			0.5	1			35μm			1000mm	Čierna					35l									99001846						4-3 Odpadové vrecia
+99002319	Odpadové vrecia 700x1100mm Čierne	Odpadové vrecia	0.0794	ks			25	100			1.5	1			40μm			1400mm	Čierna					120l									99001846						4-3 Odpadové vrecia
+99000281	Odpadové vrecia 700x1100mm Modré	Odpadové vrecia	0.0816	ks			25	100			1.5	1			40μm			1400mm	Modrá					120l									99001846						4-3 Odpadové vrecia
+99001823	Odpadové vrecia 700x1100mm Žlté	Odpadové vrecia	0.0809	ks			25	100			1.5	1			40μm			1400mm	Žltá					120l									99001846						4-3 Odpadové vrecia
+99001530	Odpadové vrecia 700x1100mm Modré	Odpadové vrecia	0.1350	ks			25	100			2.2	1			60μm			1400mm	Modrá					120l									99001846						4-3 Odpadové vrecia
+99002780	Odpadové vrecia 700x1100mm Modré	Odpadové vrecia	0.1816	ks			20	100			2.3	1			80μm			1400mm	Modrá					120l									99001846						4-3 Odpadové vrecia
+99001499	Odpadové vrecia 650+550x1350mm Čierne	Odpadové vrecia	0.3910	ks			10	30			1.9	1			60μm			2400mm	Čierna					240l									99001846						4-3 Odpadové vrecia
+99003653	Mikroténové blokované vrecia 160x240mm	Mikroténové blokované vrecia 	0.1600	bal			1	200	50		0.03	1			7μm				Transparent	Balenie obsahuje 50ks.													99003653	99002319	99002791	99001592	99001587	99005262	4-4 Mikroténové vrecká
+99003494	Mikroténové blokované vrecia 200x300mm	Mikroténové blokované vrecia 	0.2200	bal			1	100			0.05	1			8μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99003495	Mikroténové blokované vrecia 250x350mm	Mikroténové blokované vrecia 	0.3200	bal			1	100			0.07	1			8μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99003493	Mikroténové blokované vrecia 300x400mm	Mikroténové blokované vrecia 	0.4400	bal			1	100			0.1	1			8μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99005326	Mikroténové blokované vrecia 160x240mm	Mikroténové blokované vrecia 	0.2200	bal			1	200			0.05	1			12μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99005327	Mikroténové blokované vrecia 200x300mm	Mikroténové blokované vrecia 	0.3400	bal			1	100			0.07	1			12μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99003977	Mikroténové blokované vrecia 250x350mm	Mikroténové blokované vrecia 	0.4800	bal			1	100			0.1	1			12μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99001118	Mikroténové blokované vrecia 300x400mm	Mikroténové blokované vrecia 	0.6600	bal			1	80			0.14	1			12μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99005330	Mikroténové blokované vrecia 160x240mm	Mikroténové blokované vrecia 	0.2700	bal			1	200			0.055	1			15μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99001169	Mikroténové blokované vrecia 200x300mm	Mikroténové blokované vrecia 	0.4000	bal			1	100			0.09	1			15μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99005332	Mikroténové blokované vrecia 250x350mm	Mikroténové blokované vrecia 	0.5800	bal			1	100			0.13	1			15μm				Transparent	Balenie obsahuje 50ks.													99003653						4-4 Mikroténové vrecká
+99001170	Mikroténové blokované vrecia 300x400mm	Mikroténové blokované vrecia 	0.7800	bal			1	80	80		0.18	1			15μm				Transparent	Balenie obsahuje 80ks.													99003653						4-4 Mikroténové vrecká
+99004438	Mikroténové rolované vrecia 200x300mm	Mikroténové rolované vrecia 	0.2000	bal			1	100			0.05	1			7μm				Transparent	Balenie obsahuje 50ks.													99004438	99001592	99000341	99000208	99002319	99000736	4-4 Mikroténové vrecká
+99005335	Mikroténové rolované vrecia 250x350mm	Mikroténové rolované vrecia 	0.4000	bal			1	100			0.07	1			7μm				Transparent	Balenie obsahuje 50ks.													99004438						4-4 Mikroténové vrecká
+99005336	Mikroténové rolované vrecia 300x400mm	Mikroténové rolované vrecia 	0.3600	bal			1	100			0.09	1			7μm				Transparent	Balenie obsahuje 50ks.													99004438						4-4 Mikroténové vrecká
+99005337	Mikroténové rolované vrecia 160x240mm	Mikroténové rolované vrecia 	1.2000	bal			1	10	500		0.3	1			7μm				Transparent	Balenie obsahuje 500ks.													99004438						4-4 Mikroténové vrecká
+99005338	Mikroténové rolované vrecia 200x300mm	Mikroténové rolované vrecia 	1.6000	bal			1	10	500		0.5	1			7μm				Transparent	Balenie obsahuje 500ks.													99004438						4-4 Mikroténové vrecká
+99005339	Mikroténové rolované vrecia 250x350mm	Mikroténové rolované vrecia 	2.4000	bal			1	10	500		0.7	1			7μm				Transparent	Balenie obsahuje 500ks.													99004438						4-4 Mikroténové vrecká
+99004026	Mikroténové tašky košieľkové 520x580mm Červená	Mikroténové tašky	1.9000	bal			1	20	50		0.5	1			17μm				Červená	Balenie obsahuje 50ks.														99001592	99000341	99000208	99002319	99000736	4-4 Mikroténové vrecká
+99005341	Mikroténové tašky košieľkové 340x470mm	Mikroténové tašky	0.6000	bal			1	40	50		0.13	1			8μm				Modrá	Balenie obsahuje 50ks.																			4-4 Mikroténové vrecká
+99005342	Mikroténové tašky košieľkové 440x500mm	Mikroténové tašky	1.1800	bal			1	40	50		0.3	1			13.5μm				Modrá	Balenie obsahuje 50ks.																			4-4 Mikroténové vrecká
+99005343	Mikroténové tašky košieľkové 520x680mm	Mikroténové tašky	2.2000	bal			1	20	50		0.6	1			17μm				Modrá	Balenie obsahuje 50ks.																			4-4 Mikroténové vrecká
+99003088	"Bublinková fólia 0,33x100m"	Bublinková fólia	4.5000	ks			3	3	3		2	2	5	100m	40μm				Transparent	Balenie obsahuje 3ks.														99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99001297	"Bublinková fólia 0,5x100m"	Bublinková fólia	6.0000	ks			2	2	2		2.5	2	5	100m	40μm				Transparent	Balenie obsahuje 2ks.														99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99000208	Bublinková fólia 1x100m	Bublinková fólia	12.0000	ks			1	1			5	2	5	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99000427	"Bublinková fólia 1,2x100m"	Bublinková fólia	14.4000	ks			1	1			6	2	5	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99002217	"Bublinková fólia 1,5x100m"	Bublinková fólia	21.0000	ks			1	1			7	2	5	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99001670	Bublinková fólia 2x100m	Bublinková fólia	28.0000	ks			1	1			10	2	5	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99004532	"Bublinková fólia 1,2x100m + 0,8mm PE pena Laminovaná"	Bublinková fólia	44.8700	ks			1	1			20	2	8	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99004227	"Bublinková fólia 1,5x100m + 0,8mm PE pena Laminovaná"	Bublinková fólia	49.0460	ks			1	1			23	2	8	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99002637	"Bublinková fólia 1,2x50m - 30mm priemer bublín"	Bublinková fólia	22.0000	ks			1	1			10	2	5	50m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99001647	Bublinková fólia 1x100m ESD	Bublinková fólia	14.0000	ks			1	1			8	2	5	100m	40μm				Transparent															99001592	99000341	99000485	99003485	99002729	5-1 Bublinková fólia
+99000511	Bublinkové vrecia 300x300mm	Vrecká z bublinkovej fólie	0.0800	ks			500	500				2	5		40μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99000485	Bublinkové vrecia 600x600mm 	Vrecká z bublinkovej fólie	0.1800	ks			200	200				2	5		40μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99004403	Bublinkové vrecia 600x900mm	Vrecká z bublinkovej fólie	0.3300	ks			100	100				2	5		40μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99004155	Bublinkové vrecia 430x700+80mm s lepiacou klopou	Vrecká z bublinkovej fólie	0.2000	ks			200	200				2	5		40μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99004097	Bublinkové vrecia 520x490+80mm s lepiacou klopou	Vrecká z bublinkovej fólie	0.2100	ks			200	200				2	5		40μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99004028	Bublinkové vrecia 600x550+80mm s lepiacou klopou	Vrecká z bublinkovej fólie	0.2500	ks			150	150				2	5		40μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99004829	Bublinkové vrecia 150x220+50mm	Vrecká z bublinkovej fólie	0.1400	ks			500	500				2	5		18μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99002785	Bublinkové vrecia 200x300+50mm	Vrecká z bublinkovej fólie	0.2200	ks			500	500				2	5		18μm				Transparent															99001592	99002791	99000086	99000208	99005262	5-2 Vrecká z bublinkovej fólie
+99001008	"Penová fólia 1mm, 1m, 300m"	Penová fólia v rolkách	31.0000	ks			1	1			8	2	5	100m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99000377	"Penová fólia 2mm, 1m, 100m"	Penová fólia v rolkách	18.0000	ks	20.8000		1	1			5	2	5	100m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99003723	"Penová fólia 2mm, 1,1m, 100m"	Penová fólia v rolkách	22.2000	ks			1	1			5.5	2	5	100m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99003369	"Penová fólia 2mm, 1,2m, 100m"	Penová fólia v rolkách	23.4000	ks			1	1			6	2	5	100m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99003229	"Penová fólia 3mm, 1,5m, 100m"	Penová fólia v rolkách	42.4000	ks			1	1			10.5	2	5	100m					Biela	Balenie obsahuje 100m fólie.														99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99002196	"Penová fólia 3mm, 1m, 50m"	Penová fólia v rolkách	15.4000	ks			1				4	2	5	50m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99000534	"Penová fólia 3mm, 1m, 100m"	Penová fólia v rolkách	25.0000	ks	29.4000		1	1			8	2	5	100m					Biela	Balenie obsahuje 100m2.														99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99000713	"Penová fólia 5mm, 1m, 50m"	Penová fólia v rolkách	25.8000	ks			1	1			8	2	5	50m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99002332	"Penová fólia 10mm, 1m, 50m"	Penová fólia v rolkách	51.4000	ks			1	1			14	2	5	50m					Biela															99003193	99003476	99001592	99002791	99000208	6 Peny a penové fólie
+99005222	Bublinková obálka 95x165mm Typ A11	Obálky z bublinkovej fólie	0.0480	ks			250	250				2	5						Biela															99000341	99001592	99005300	99001015	99001779	5-3 Obálky z bublinkovej fólie
+99005223	Bublinková obálka 145x215mm Typ C13	Obálky z bublinkovej fólie	0.0700	ks			100	100				2	5						Biela															99000341	99001592	99005303	99001015	99001779	5-3 Obálky z bublinkovej fólie
+99005224	Bublinková obálka 215x340mm Typ F16	Obálky z bublinkovej fólie	0.1320	ks			100	100				2	5						Biela															99000341	99001592	99005304	99001015	99001779	5-3 Obálky z bublinkovej fólie
+99005225	Bublinková obálka 295x445mm Typ J19	Obálky z bublinkovej fólie	0.2080	ks			50	50				2	5						Biela															99000341	99001592	99002083	99001788	99002808	5-3 Obálky z bublinkovej fólie
+99005226	Bublinková obálka 350x470mm Typ K20	Obálky z bublinkovej fólie	0.2560	ks			50	50				2	5						Biela															99000341	99001592	99002083	99001788	99002808	5-3 Obálky z bublinkovej fólie
+99003193	"Penové hárky 390x590x0,8mm"	Hárky a vrecia	0.0290	ks			1000	1000				2	5						Biela															99000534	99000341	99001592	99000086	99002193	5-3 Obálky z bublinkovej fólie
+99001926	"Penové hárky 800x1300x0,8mm "	Hárky a vrecia	0.1100	ks			320	320				2	5						Biela	Balenie je forme rolky.														99000534	99000341	99001592	99000086	99002193	5-3 Obálky z bublinkovej fólie
+99003476	"Penové vrecia 450x500x0,8mm"	Hárky a vrecia	0.1440	ks			500	500				2	5						Biela															99000485	99002791	99001592	99000543	99005262	6 Peny a penové fólie
+99000901	Penový Profil L 50x50mm 	L profily	96.0000	bal			1	1				2	5						Modrá	Balenie = 480m (240ks). Dĺžka 1ks sa rovná 2m.													99000901	99000341	99000086	99001592	99000208	99000534	6 Peny a penové fólie
+99002437	Penový Profil L 75x75mm	L profily	76.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 210m.													99000901						6 Peny a penové fólie
+99002656	Tesniaca šnúra 12mm	Tesniace šnúry	110.0000	bal			1	1				2	5							Balenie obsahuje 2000m.													99002656	99000341	99000086	99001592	99000208	99000534	6 Peny a penové fólie
+99001416	Tesniaca šnúra 18mm	Tesniace šnúry	60.0000	bal			1	1				2	5							Balenie obsahuje 1000m.													99002656						6 Peny a penové fólie
+99004990	Tesniaca šnúra 20mm	Tesniace šnúry	67.0000	bal			1	1				2	5							Balenie obsahuje 600m.													99002656						6 Peny a penové fólie
+99000488	Tesniaca šnúra 25mm	Tesniace šnúry	77.5000	bal			1	1				2	5							Balenie obsahuje 500m.													99002656						6 Peny a penové fólie
+99000489	Tesniaca šnúra 30mm	Tesniace šnúry	121.5000	bal			1	1				2	5							Balenie obsahuje 500m.													99002656						6 Peny a penové fólie
+99002027	Tesniaca šnúra 35mm	Tesniace šnúry	104.0000	bal			1	1				2	5							Balenie obsahuje 350m.													99002656						6 Peny a penové fólie
+99000490	Tesniaca šnúra 40mm	Tesniace šnúry	103.0000	bal			1	1				2	5							Balenie obsahuje 200m.													99002656						6 Peny a penové fólie
+99001830	Penový Profil U 25mm	U profily	91.8000	bal			1	1				2	5						Modrá	Balenie obsahuje 280m.													99001830	99001592	99000086	99000208	99000534	99000341	6 Peny a penové fólie
+99003001	Penový Profil U 35mm	U profily	61.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 180m.													99001830						6 Peny a penové fólie
+99003002	Penový Profil U 45mm	U profily	65.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 160m.													99001830						6 Peny a penové fólie
+99003003	Penový Profil U 60mm	U profily	65.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 100m.													99001830						6 Peny a penové fólie
+99003763	Penový Profil U 80mm	U profily	58.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 80m.													99001830						6 Peny a penové fólie
+99000417	Penová rúrka 25x5mm	Penové rúrky	42.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 330m.													99000417	99001592	99000086	99000208	99000534	99000341	6 Peny a penové fólie
+99004435	Penová rúrka 42x9mm	Penové rúrky	45.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 120m.													99000417	99001592	99000086	99000208	99000534	99000341	6 Peny a penové fólie
+99000285	Plastový rohovník 20mm	Páskovanie s PP a PET páskou	0.0150	ks			2000	2000			8	1							Modrá																				6 Peny a penové fólie
+99001973	Rohovník U 25mm	U rohovníky	0.2600	ks			600	600				2	5						Modrá														99001973	99001592	99000086	99000208	99000534	99000341	6 Peny a penové fólie
+99004956	Rohovník U 35mm	U rohovníky	0.2800	ks			400	400				2	5						Modrá														99001973						6 Peny a penové fólie
+99001974	Rohovník U 45mm	U rohovníky	0.3100	ks			300	300				2	5						Modrá														99001973						6 Peny a penové fólie
+99002441	Penový rohovník 70mm Typ C	C rohovníky	0.0800	ks			3100	3100				2	5						Modrá														99002441	99001592	99000086	99000208	99000534	99000341	6 Peny a penové fólie
+99003674	Penový rohovník 100mm Typ C	C rohovníky	0.0900	ks			1300	1300				2	5						Modrá														99002441						6 Peny a penové fólie
+99001678	Penový Profil R 20x50mm	R profily	112.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 350m.														99001592	99000086	99000208	99000534	99000341	6 Peny a penové fólie
+99002928	Penový Profil RS 35x45mm	RS profily	108.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 240m.													99002928	99001592	99000086	99000208	99000534		6 Peny a penové fólie
+99003632	Penový Profil RS 25x35mm	RS profily	114.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 400m.													99002928						6 Peny a penové fólie
+99004306	Penový Profil W 50x50mm	W profily	106.0000	bal			1	1				2	5						Modrá	Balenie obsahuje 200m.													99004306	99001592	99000086	99000208	99000534		6 Peny a penové fólie
+99005019	Penový Profil W 60x60mm	W profily	75.9000	bal			1	1				2	5						Modrá	Balenie obsahuje 140m.													99004306						6 Peny a penové fólie
+99001388	"Sťahovacie pásky 2,5x100mm Biela"	Sťahovacie pásky	0.0043	ks			100	1000			0.3	1							Biela															99000208	99001592	99000086	99000341	99000534	7 Viazacia a sťahovacia technika
+99001405	"Sťahovacie pásky 2,6x160mm Biela"	Sťahovacie pásky	0.0104	ks			100	1000			0.4	1							Biela															99000208	99001592	99000086	99000341	99000534	7 Viazacia a sťahovacia technika
+99004121	"Sťahovacie pásky 3,6x290mm Čierna"	Sťahovacie pásky	0.0236	ks			100	500			0.2	1							Čierna															99000208	99001592	99000086	99000341	99000534	7 Viazacia a sťahovacia technika
+99000507	"Sťahovacie pásky 4,8x200mm Biela"	Sťahovacie pásky	0.0180	ks			100	500			0.2	1							Biela															99000208	99001592	99000086	99000341	99000534	7 Viazacia a sťahovacia technika
+99000506	"Sťahovacie pásky 4,8x290mm Biela"	Sťahovacie pásky	0.0317	ks			100	500			0.3	1							Biela															99000208	99001592	99000086	99000341	99000534	7 Viazacia a sťahovacia technika
+99004785	"Sťahovacie pásky 4,8x360mm Biela"	Sťahovacie pásky	0.0335	ks			100	500			0.4	1							Biela															99000208	99001592	99000086	99000341	99000534	7 Viazacia a sťahovacia technika
+99002339	Papierové hrany 35x35x3x1000mm	Papierové hrany	0.1320	ks			50	100			7.5	1							Hnedá														99002339	99000539	99000341	99002193	99003989	99000277	8 Papierové hrany
+99001878	Papierové hrany 45x45x3x1000mm	Papierové hrany	0.1808	ks			50	100			9	1							Hnedá														99002339						8 Papierové hrany
+99001983	Papierové hrany 35x35x3x2000mm	Papierové hrany	0.2604	ks			50	50			15	1							Hnedá														99002339						8 Papierové hrany
+99000454	Papierové hrany 50x50x3x1000mm	Papierové hrany	0.1984	ks			50	50			10	1							Hnedá														99002339						8 Papierové hrany
+99002259	Papierové hrany 50x50x3x1100mm	Papierové hrany	0.2182	ks			50	50			11.5	1							Hnedá														99002339						8 Papierové hrany
+99001605	Papierové hrany 50x50x3x1200mm	Papierové hrany	0.2380	ks			50	50			12	1							Hnedá														99002339						8 Papierové hrany
+99001841	Papierové hrany 50x50x3x2000mm	Papierové hrany	0.3600	ks			50	50			21	1							Hnedá														99002339						8 Papierové hrany
+99002218	Papierové hrany 50x50x4x500mm	Papierové hrany	0.1268	ks			50	100			6.5	1							Hnedá														99002339						8 Papierové hrany
+99000884	Papierové hrany 50x50x5x1100mm	Papierové hrany	0.3470	ks			50	50			16	1							Hnedá														99002339						8 Papierové hrany
+99002492	Papierové hrany 50x50x5x2000mm	Papierové hrany	0.6308	ks			50	50			31	1							Hnedá														99002339						8 Papierové hrany
+99004616	Papierové hrany 80x80x5x795mm	Papierové hrany	0.3768	ks			50	50			23	1							Hnedá														99002339						8 Papierové hrany
+99004638	Papierové hrany 80x80x5x1040mm	Papierové hrany	0.4930	ks			50	50			30	1							Hnedá														99002339						8 Papierové hrany
+99000802	Baliaci papier Šedák 1500mm 90g	Baliaci papier Šedák	99.4000	ks			1	1		70	70	1							Šedý															99002213	99000208	99001592	99000341	99000763	9-4 Baliaci papier ŠEDÁK
+99000699	Gačovaný papier 1020m	Gačovaný papier	156.0000	ks			1	1		60	60	1							Hnedá															99002213	99001592	99002791	99000561	99000763	9-1 Gačovaný papier
+99000561	Antikorózny papier VCI	Anitkorózny papier	228.0000	ks			1	1		60	60	1							Hnedá															99000699	99001592	99002175	99002729	99000553	9-2 Antikorózny papier
+99005090	"Vlnitá lepenka 0,5x100m"	Lepenka	10.0000	ks			1	1			12	2	5						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99002264	"Vlnitá lepenka 0,8x150m"	Lepenka	24.0000	ks			1	1			26	2	6.5						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99001050	"Vlnitá lepenka 1,05x100m"	Lepenka	21.0000	ks			1	1			24	2	6.5						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99001519	"Vlnitá lepenka 1,2x150m"	Lepenka	36.0000	ks			1	1			39	2	8						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99002183	"Vlnitá lepenka 1,05x10m"	Lepenka	2.3000	ks			5	5			12	2	5						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99002015	"Vlnitá lepenka 1,6x150m"	Lepenka	61.4400	ks			1	1			53	2	13						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99002213	"Vlnitá lepenka 1,05x150m "	Lepenka	31.5000	ks			1	1			35	2	8						Hnedá															99002791	99001592	99001197	99002672	99000208	9-3 Lepenka
+99004983	Fólia rukáv 100mm	LDPE Primárne Hadicové fólie	25.0000	ks		2.5000	1	1		10	10	1		1100m	50μm	100mm			Transparent														99004983	99000341	99000086	99001592	99003328	99000534	10-1 LDPE fólia
+99004196	Fólia rukáv 200mm	LDPE Primárne Hadicové fólie	25.0000	ks		2.5000	1	1		10	10	1		520m	50μm	200mm			Transparent														99004983						10-1 LDPE fólia
+99000513	Fólia rukáv 300mm	LDPE Primárne Hadicové fólie	44.0000	ks		2.2000	1	1		20	20	1		730m	50μm	300mm			Transparent														99004983						10-1 LDPE fólia
+99000553	Fólia rukáv 600mm	LDPE Primárne Hadicové fólie	44.0000	ks		2.2000	1	1		20	20	1		360m	50μm	600mm			Transparent														99004983						10-1 LDPE fólia
+99003569	Fólia rukáv 800mm	LDPE Primárne Hadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		680m	50μm	800mm			Transparent														99004983						10-1 LDPE fólia
+99002672	Fólia rukáv 1000mm	LDPE Primárne Hadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		510m	50μm	1000mm			Transparent														99004983						10-1 LDPE fólia
+99004425	Fólia rukáv 1200mm	LDPE Primárne Hadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		450m	50μm	1200mm			Transparent														99004983						10-1 LDPE fólia
+99000702	Fólia rukáv 1200mm	LDPE Primárne Hadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		220m	100μm	1200mm			Transparent														99004983						10-1 LDPE fólia
+99000758	Fólia rukáv 1200mm	LDPE Primárne Hadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		110m	200μm	1200mm			Transparent														99004983						10-1 LDPE fólia
+99003482	Fólia polrukáv 1200mm	LDPE Primárme Polohadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		170m	125μm	1200mm	2400mm		Transparent														99003482	99000341	99000086	99001592	99000277	99000534	10-1 LDPE fólia
+99001307	Fólia polrukáv 1500mm	LDPE Primárme Polohadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		170m	100μm	1500mm	3000mm		Transparent														99003482						10-1 LDPE fólia
+99000776	Fólia polrukáv 1750mm	LDPE Primárme Polohadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		150m	100μm	1750mm	3500mm		Transparent														99003482						10-1 LDPE fólia
+99000722	Fólia polrukáv 1200+2x300mm	LDPE Primárme Polohadicové fólie	100.0000	ks		2.0000	1	1		50	50	1		100m	150μm	1800mm	3600mm		Transparent														99003482						10-1 LDPE fólia
+99000061	Fólia rukáv 600mm Regranulát	LDPE Regranulátové Hadicové fólie	45.0000	ks		1.5000	1	1		30	30	1		510m	50μm	600mm			Transparent														99000061	99000341	99000086	99001592	99003328	99000534	10-1 LDPE fólia
+99000751	Fólia rukáv 1000mm Regranulát	LDPE Regranulátové Hadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		260m	100μm	1000mm			Transparent														99000061						10-1 LDPE fólia
+99000466	Fólia rukáv 1200mm Regranulát	LDPE Regranulátové Hadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		220m	100μm	1200mm			Transparent														99000061						10-1 LDPE fólia
+99000999	Fólia rukáv 1400mm Regranulát	LDPE Regranulátové Hadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		180m	100μm	1400mm			Transparent														99000061						10-1 LDPE fólia
+99000348	Fólia polrukáv 1400mm Regranulát	LDPE Regranulátové Polohadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		180m	100μm	1400mm	2800mm		Transparent														99000348	99000341	99000086	99001592	99000277	99000534	10-1 LDPE fólia
+99001958	Fólia polrukáv 800mm Regranulát	LDPE Regranulátové Polohadicové fólie	45.0000	ks		1.5000	1	1		30	30	1		190m	100μm	800mm	1600mm		Transparent														99000348						10-1 LDPE fólia
+99002521	Fólia polrukáv 750mm Regranulát	LDPE Regranulátové Polohadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		1150m	30μm	750mm	1500mm		Transparent														99000348						10-1 LDPE fólia
+99001226	Fólia polrukáv 1750mm Regranulát	LDPE Regranulátové Polohadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		180m	80μm	1750mm	2500mm		Transparent														99000348						10-1 LDPE fólia
+99001932	Fólia polrukáv so záložkami 1200+2x400mm	LDPE Regranulátové Polohadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		160m	80μm	2000mm	4000mm		Transparent														99000348						10-1 LDPE fólia
+99001671	Fólia polrukáv so záložkami 1400+2x550 Čierna	LDPE Regranulátové Polohadicové fólie	45.0000	ks		1.5000	1	1		50	50	1		100m	100μm	2000mm	4000mm		Čierna														99000348						10-1 LDPE fólia
+99004914	Fólia polrukáv so záložkami 1100+2x450mm 100m2 Čierna	LDPE Regranulátové Polohadicové fólie	11.0000	ks			1	1		6	6	1		25m	60μm	2000mm	4000mm		Čierna														99000348						10-1 LDPE fólia
+99001250	Fólia rukáv 600mm	HDPE fólie	44.0000	ks		2.2000	1	1		20	20	1		1050m	25μm	600mm			Transparent														99001250	99000341	99000086	99001592	99000539	99000534	10-2 HDPE fólia
+99002538	Fólia rukáv 750mm	HDPE fólie	66.0000	ks		2.2000	1	1		30	30	1		840m	50μm	750mm			Transparent														99001250						10-2 HDPE fólia
+99002539	Fólia rukáv 680mm	HDPE fólie	66.0000	ks		2.2000	1	1		30	30	1		580m	40μm	680mm			Transparent														99001250						10-2 HDPE fólia
+99000632	Fólia rukáv 1000mm	HDPE fólie	66.0000	ks		2.2000	1	1		30	30	1		630m	25μm	1000mm			Transparent														99001250						10-2 HDPE fólia
+99001196	Fólia rukáv 1200mm	HDPE fólie	66.0000	ks		2.2000	1	1		30	30	1		530m	25μm	1200mm			Transparent														99001250						10-2 HDPE fólia
+99001617	Fólia rukáv so záložkami 1100+2x250mm	HDPE fólie	66.0000	ks		2.2000	1	1		30	30	1		400m	25μm	1600mm			Transparent														99001250						10-2 HDPE fólia
+99000349	Agrofólia 1600+2x700mm	Agrofólia	125.0000	ks		2.5000	1	1		50	50	1		530m	170μm	3000mm	6000mm		Transparent															99000277	99001592	99000341	99002213	99001671	10-3 Agrofólia
+99002193	Prekrývacia fólia 1200x1600mm Regranulát	Prekryvácia fólia	25.0000	ks			250	250			15				30μm				Transparent															99001605	99000539	99000277	99002175	99001592	10-4 Prekrývacia fólia
+99001531	Prekrývacia fólia 1200x1600mm Čierna	Prekryvácia fólia	23.0000	ks			250	250			15				30μm				Čierna															99001605	99000539	99000277	99002175	99001592	10-4 Prekrývacia fólia
+99003560	Prekrývacia fólia 4x5m 	Prekryvácia fólia	0.5800	ks			1	20			0.2	1							Transparent															99001605	99000539	99000277	99002175	99001592	10-4 Prekrývacia fólia
+99000044	Páskovačka BO 6F	Páskovanie s oceľovou páskou	360.0000	ks			1	1			4																							99000024	99001147	99001592	99001231	99000010	11-1-2 Páskovač BO6F 
+99000043	Páskovačka BO 51	Páskovanie s oceľovou páskou	295.0000	ks			1	1			5																							99000024	99001147	99001592	99001231	99000010	11-1-1 Páskovačka BO51 
+99000162	Uzatváracie kliešte UK-2	Páskovanie s oceľovou páskou	230.0000	ks			1	1			3																							99000182	99000034	99002412	99000161	99001592	11-1-4 Uzatváracie kliešte UK-2
+99000161	Napínač NP 21	Páskovanie s oceľovou páskou	260.0000	ks			1	1			3																							99000315	99000033	99000182	99000034	99001592	11-1-3 Napínač NP21
+99000045	Ručná páskovačka PP 13	Páskovanie s PP a PET páskou	86.0000	ks			1	1			2																							99000689	99000030	99000050	99001592	99005262	11-2-1 Páskovačka PP13
+99000046	Ručná páskovačka PP 16	Páskovanie s PP a PET páskou	86.0000	ks			1	1			2																							99000277	99000031	99000050	99001592	99005262	11-2-2 Páskovačka PP16
+99000732	Ručná páskovačka PP 10	Páskovanie s PP a PET páskou	86.0000	ks			1	1			2																							99000028	99000107	99000050	99001592	99005262	11-2-2 Páskovačka PP16
+99000222	Ručná páskovačka PPX 16	Páskovanie s PP a PET páskou	429.0000	ks			1	1			2																							99001231	99000032	99000050	99001592	99001230	11-2-2 Páskovačka PP16
+99000065	Ručná páskovačka H 21	Páskovanie s PP a PET páskou	49.0000	ks			1	1			2																							99001231	99000277	99000050	99001592	99000039	11-2-3 Páskovačka H21
+99002453	Akumulátorová páskovačka ITA 24	Páskovanie s PP a PET páskou	1830.0000	ks			1	1			5																							99000277	99001231	99000285	99000050	99001592	11-2-4 Páskovačka ITA24 AKU
+99000900	Akumulátorová páskovačka ITA 25	Páskovanie s PP a PET páskou	1750.0000	ks			1	1			5																							99000976	99002175	99005316	99000050	99001592	11-2-5 Páskovačka ITA25 AKU
+99004336	Akumulátorová páskovačka OR-T 260	Páskovanie s PP a PET páskou	2270.0000	ks			1	1			5																							99000277	99001231	99000285	99000050	99001592	11-2-6 Páskovačka ORT 260 AKU
+99005316	Akumulátorová páskovačka OR-T 450	Páskovanie s PP a PET páskou	2420.0000	ks			1	1			5																							99000277	99000976	99003366	99000050	99001592	11-2-6 Páskovačka ORT 260 AKU
+99001023	Poloautomatický páskovací stroj	Páskovanie s PP a PET páskou	720.0000	ks			1	1			100																							99000107	99003519	99000341	99002259	99001592	11-2-8 Poloautomatický páskovací stroj
+99003528	Ručná páskovačka H 22	Páskovanie s PES páskou	55.0000	ks			1	1			2																							99000325	99000005	99000081	99002839	99000039	11-3-1 Napínač H22
+99003471	Ručná páskovačka H 25	Páskovanie s PES páskou	126.0000	ks			1	1			2																							99000325	99002173	99002426	99000042	99001592	11-3-2 Napínač H25
+99000047	Rucná páskovačka H 26 P460 do 30mm	Páskovanie s PES páskou	149.0000	ks			1	1			2																							99000645	99000988	99001592	99000454	99000354	"11-3-4 Napínač H26 (P460), do 30 mm"
+99000167	Ručná páskovačka H 26 P472 do 36mm	Páskovanie s PES páskou	169.0000	ks			1	1			2																							99000472	99000645	99000988	99001592	99000534	"11-3-5 Napínač H26 (P472), do 36 mm"
+99000323	Ručná páskovačka H 27 P482 JUMBO	Páskovanie s PES páskou	482.0000	ks			1	1			2																							99000472	99000645	99000988	99001592	99000534	11-3-6 Napínač H27 (P482)
+99002412	Odvíjač oceľovej pásky OP 28 do 32mm	Odvíjače viazacich pások	126.0000	ks			1	1			20																							99000182	99000034	99000161	99000162	99001592	11-4-2 Odvíjač OP 28
+99001147	Odvíjač oceľovej pásky OP 21 do 20mm	Odvíjače viazacich pások	135.0000	ks			1	1			20																							99000024	99000023	99000043	99000044	99001592	11-4-1 Odvíjač OP 21
+99000050	Odvíjač PP a PET pásky	Odvíjače viazacich pások	114.0000	ks			1	1			20																							99000277	99001231	99001592	99000065	99000285	11-4-3 Odvíjač na PP a PET pásky
+99000325	Odvíjač PES pásky	Odvíjače viazacich pások	47.0000	ks			1	1			20																							99000005	99000081	99000387	99000039	99003528	11-4-4 Odvíjač PES pásky
+99003252	Oceľový strojček na lepiacu pásku s brzdou do 50mm	Strojčeky na lepiacu pásky a odvíjače stretch fólie	9.9000	ks			1	1			1																							99000341	99002791	99002175	99000208	99001592	11-5 Strojčeky na lepiace pásky
+99001807	Strojček na lepiacu pásku s brzdou do 75mm	Strojčeky na lepiacu pásky a odvíjače stretch fólie	14.9000	ks			1	1			1																							99002164	99005073	99001592	99000208	99002646	11-5 Strojčeky na lepiace pásky
+99001740	Odvíjač stretch fólie ROS	Strojčeky na lepiacu pásky a odvíjače stretch fólie	5.9000	ks			1	1			1																							99001592	99001296	99000341	99000208	99005262	11-6-1 Odvíjač R.O.S
+99001187	Odvíjač granátovovej mini stretch fólie	Strojčeky na lepiacu pásky a odvíjače stretch fólie	4.8000	ks			1	1			1																							99000086	99003300	99000341	99000534	99000763	11-6-2 Odvíjač na granátovú fóliu
+99000241	Kovový odvíjač stretch fólie W 110	Strojčeky na lepiacu pásky a odvíjače stretch fólie	40.0000	ks			1	1			1																							99001592	99001296	99000341	99000208	99005262	11-6-3 Kovový odvíjač stretch fólie
+99002197	Samolepiaca fólia 100mm 500m 	Samolepiace fólie	10.1000	ks			1	1			2			500m	35μm				Transparent						Stredná lepivosť								99002197	99001592	99000691	99000208	99002913	99000277	12 Samolepiace fólie
+99001986	Samolepiaca fólia 200mm 500m	Samolepiace fólie	20.3000	ks			1	1			4			500m	35μm				Transparent						Stredná lepivosť								99002197						12 Samolepiace fólie
+99000551	Samolepiaca fólia 300mm 500m	Samolepiace fólie	32.9000	ks			1	1			6			500m	35μm				Transparent						Stredná lepivosť								99002197						12 Samolepiace fólie
+99004888	Samolepiaca fólia 500mm 100m	Samolepiace fólie	17.7000	ks			1	1			4			100m	50μm				Transparent						Slabá lepivosť								99002197						12 Samolepiace fólie
+99002443	Samolepiaca fólia 600mm 500m	Samolepiace fólie	99.9000	ks			1	1			20			500m	70μm				Transparent						Silná lepivosť								99002197						12 Samolepiace fólie
+99003859	Samolepiaca fólia 1000mm 500m 	Samolepiace fólie	139.9000	ks			1	1			27			500m	50μm				Transparent						Stredná lepivosť								99002197						12 Samolepiace fólie
+99005229	Krabica 150x150x65mm 3VL	Klopové krabice 3VL	0.4400	ks			25	25			1.175	1							Hnedá							150mm	150mm	65mm				3	99005229	99000341	99001592	99000763	99002729	99003193	13-2 Kartónové klopové krabice
+99005230	Krabica 150x150x100mm 3VL	Klopové krabice 3VL	0.4400	ks			25	25			1.35	1							Hnedá							150mm	150mm	100m				3	99005229						13-2 Kartónové klopové krabice
+99005231	Krabica 150x150x150mm 3VL	Klopové krabice 3VL	0.4400	ks			25	25			1.65	1							Hnedá							150mm	150mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005232	Krabica 200x100x65mm 3VL	Klopové krabice 3VL	0.4400	ks			25	25			0.875	1							Hnedá							200mm	100mm	65mm				3	99005229						13-2 Kartónové klopové krabice
+99005233	Krabica 200x100x100mm 3VL	Klopové krabice 3VL	0.4400	ks			25	25			1.075	1							Hnedá							200mm	100mm	100mm				3	99005229						13-2 Kartónové klopové krabice
+99005234	Krabica 200x160x160mm 3VL	Klopové krabice 3VL	0.4400	ks			25	25			2.3	1							Hnedá							200mm	160mm	160mm				3	99005229						13-2 Kartónové klopové krabice
+99005235	Krabica 200x200x200mm 3VL	Klopové krabice 3VL	0.5560	ks			25	25			3.15	1							Hnedá							200mm	200mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005236	Krabica 220x155x150mm 3VL	Klopové krabice 3VL	0.4440	ks			25	25			2.25	1							Hnedá							220mm	155mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005237	Krabica 250x200x100mm 3VL	Klopové krabice 3VL	0.4420	ks			25	25			2.5	1							Hnedá							250mm	200mm	100mm				3	99005229						13-2 Kartónové klopové krabice
+99005238	Krabica 250x250x200mm 3VL	Klopové krabice 3VL	0.5840	ks			25	25			4.125	1							Hnedá							250mm	250mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005239	Krabica 300x200x100mm 3VL	Klopové krabice 3VL	0.4380	ks			25	25			2.755	1							Hnedá							300mm	200mm	100mm				3	99005229						13-2 Kartónové klopové krabice
+99005240	Krabica 300x250x150mm 3VL	Klopové krabice 3VL	0.7240	ks			25	25			4.068	1							Hnedá							300mm	250mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005241	Krabica 300x200x200mm 3VL	Klopové krabice 3VL	0.5840	ks			25	25			3.75	1							Hnedá							300mm	250mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005242	Krabica 300x300x100mm 3VL	Klopové krabice 3VL	0.6880	ks			25	25			4.45	1							Hnedá							300mm	300mm	100mm				3	99005229						13-2 Kartónové klopové krabice
+99005243	Krabica 300x300x150mm 3VL	Klopové krabice 3VL	0.7440	ks			25	25			5.25	1							Hnedá							300mm	300mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005244	Krabica 300x300x200mm 3VL	Klopové krabice 3VL	0.8320	ks			25	25			5.67	1							Hnedá							300mm	300mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005245	Krabica 300x300x300mm 3VL	Klopové krabice 3VL	1.0300	ks			25	25			7.025	1							Hnedá							300mm	300mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005246	Krabica 310x220x150mm 3VL	Klopové krabice 3VL	0.5840	ks			25	25			3.625	1							Hnedá							310mm	220mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005247	Krabica 350x250x200mm 3VL	Klopové krabice 3VL	0.7560	ks			25	25			5	1							Hnedá							350mm	250mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005248	Krabica 400x200x150mm 3VL	Klopové krabice 3VL	0.6320	ks			25	25			4.05	1							Hnedá							400mm	200mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005249	Krabica 400x300x100mm 3VL	Klopové krabice 3VL	0.8240	ks			25	25			5.31	1							Hnedá							400mm	300mm	100mm				3	99005229						13-2 Kartónové klopové krabice
+99005250	Krabica 400x300x200mm 3VL	Klopové krabice 3VL	0.9240	ks			25	25			6.66	1							Hnedá							400mm	300mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005251	Krabica 400x300x300mm 3VL	Klopové krabice 3VL	1.1320	ks			25	25			7.92	1							Hnedá							400mm	300mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005252	Krabica 400x400x200mm 3VL	Klopové krabice 3VL	1.3200	ks			25	25			9.09	1							Hnedá							400mm	400mm	200mm				3	99005229						13-2 Kartónové klopové krabice
+99005253	Krabica 400x400x300mm 3VL	Klopové krabice 3VL	1.4660	ks			25	25			10.53	1							Hnedá							400mm	400mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005254	Krabica 400x400x400mm 3VL	Klopové krabice 3VL	1.5760	ks			25	25			12.06	1							Hnedá							400mm	400mm	400mm				3	99005229						13-2 Kartónové klopové krabice
+99005255	Krabica 450x350x290mm 3VL	Klopové krabice 3VL	1.2840	ks			25	25			10.33	1							Hnedá							450mm	350mm	290mm				3	99005229						13-2 Kartónové klopové krabice
+99005256	Krabica 500x300x300mm 3VL	Klopové krabice 3VL	1.2720	ks			25	25			9.03	1							Hnedá							500mm	300mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005257	Krabica 500x400x300mm 3VL	Klopové krabice 3VL	1.5860	ks			25	25			11.79	1							Hnedá							500mm	400mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005258	Krabica 500x400x400mm 3VL	Klopové krabice 3VL	1.9320	ks			25	25			13.77	1							Hnedá							500mm	400mm	400mm				3	99005229						13-2 Kartónové klopové krabice
+99005259	Krabica 600x200x150mm 3VL	Klopové krabice 3VL	0.7640	ks			25	25			5.31	1							Hnedá							600mm	200mm	150mm				3	99005229						13-2 Kartónové klopové krabice
+99005260	Krabica 600x300x300mm 3VL	Klopové krabice 3VL	1.3840	ks			25	25			10.17	1							Hnedá							600mm	300mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005261	Krabica 600x400x300mm 3VL	Klopové krabice 3VL	1.7240	ks			25	25			13.05	1							Hnedá							600mm	400mm	300mm				3	99005229						13-2 Kartónové klopové krabice
+99005262	Krabica 600x400x400mm 3VL	Klopové krabice 3VL	2.2460	ks			25	25			15.3	1							Hnedá							600mm	400mm	400mm				3	99005229						13-2 Kartónové klopové krabice
+99005263	Krabica 800x600x500mm 3VL	Klopové krabice 3VL	5.0400	ks			25	25			28.53	1							Hnedá							800mm	600mm	500mm				3	99005229						13-2 Kartónové klopové krabice
+99005264	Krabica 150x150x65mm 5VL	Klopové krabice 5VL	0.5680	ks			10	10			2.082	1							Hnedá							150mm	150mm	65mm				5	99005264	99002175	99001592	99000763	99002729	99001101	13-2 Kartónové klopové krabice
+99005265	Krabica 150x150x100mm 5VL	Klopové krabice 5VL	0.5720	ks			10	10			2.554	1							Hnedá							150mm	150mm	100m				5	99005264						13-2 Kartónové klopové krabice
+99005266	Krabica 150x150x150mm 5VL	Klopové krabice 5VL	0.6740	ks			10	10			3.005	1							Hnedá							150mm	150mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005267	Krabica 200x100x65mm 5VL	Klopové krabice 5VL	0.5040	ks			10	10			1.609	1							Hnedá							200mm	100mm	65mm				5	99005264						13-2 Kartónové klopové krabice
+99005268	Krabica 200x100x100mm 5VL	Klopové krabice 5VL	0.5360	ks			10	10			1.953	1							Hnedá							200mm	100mm	100mm				5	99005264						13-2 Kartónové klopové krabice
+99005269	Krabica 200x160x160mm 5VL	Klopové krabice 5VL	0.7980	ks			10	10			3.662	1							Hnedá							200mm	160mm	160mm				5	99005264						13-2 Kartónové klopové krabice
+99005270	Krabica 200x200x200mm 5VL	Klopové krabice 5VL	0.9100	ks			10	10			5.258	1							Hnedá							200mm	200mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005271	Krabica 220x155x150mm 5VL	Klopové krabice 5VL	0.8220	ks			10	10			3.756	1							Hnedá							220mm	155mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005272	Krabica 250x200x100mm 5VL	Klopové krabice 5VL	0.9760	ks			10	10			5.108	1							Hnedá							250mm	200mm	100mm				5	99005264						13-2 Kartónové klopové krabice
+99005273	Krabica 250x250x200mm 5VL	Klopové krabice 5VL	1.1300	ks			10	10			7.212	1							Hnedá							250mm	250mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005274	Krabica 300x200x100mm 5VL	Klopové krabice 5VL	0.8280	ks			10	10			2.884	1							Hnedá							300mm	200mm	100mm				5	99005264						13-2 Kartónové klopové krabice
+99005275	Krabica 300x250x150mm 5VL	Klopové krabice 5VL	1.0500	ks			10	10			4.213	1							Hnedá							300mm	250mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005276	Krabica 300x200x200mm 5VL	Klopové krabice 5VL	1.0120	ks			10	10			4.417	1							Hnedá							300mm	250mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005277	Krabica 300x300x100mm 5VL	Klopové krabice 5VL	1.0660	ks			10	10			4.597	1							Hnedá							300mm	300mm	100mm				5	99005264						13-2 Kartónové klopové krabice
+99005278	Krabica 300x300x150mm 5VL	Klopové krabice 5VL	1.1700	ks			10	10			5.14	1							Hnedá							300mm	300mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005279	Krabica 300x300x200mm 5VL	Klopové krabice 5VL	1.2080	ks			10	10			5.679	1							Hnedá							300mm	300mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005280	Krabica 300x300x300mm 5VL	Klopové krabice 5VL	1.4060	ks			10	10			6.846	1							Hnedá							300mm	300mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005281	Krabica 310x220x150mm 5VL	Klopové krabice 5VL	0.9040	ks			10	10			4.236	1							Hnedá							310mm	220mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005282	Krabica 350x250x200mm 5VL	Klopové krabice 5VL	1.1640	ks			10	10			5.048	1							Hnedá							350mm	250mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005283	Krabica 400x200x150mm 5VL	Klopové krabice 5VL	1.0360	ks			10	10			2.704	1							Hnedá							400mm	200mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005284	Krabica 400x300x100mm 5VL	Klopové krabice 5VL	1.5240	ks			10	10			3.545	1							Hnedá							400mm	300mm	100mm				5	99005264						13-2 Kartónové klopové krabice
+99005285	Krabica 400x300x200mm 5VL	Klopové krabice 5VL	1.9320	ks			10	10			4.444	1							Hnedá							400mm	300mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005286	Krabica 400x300x300mm 5VL	Klopové krabice 5VL	1.9960	ks			10	10			5.288	1							Hnedá							400mm	300mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005287	Krabica 400x400x200mm 5VL	Klopové krabice 5VL	2.5240	ks			10	10			6.068	1							Hnedá							400mm	400mm	200mm				5	99005264						13-2 Kartónové klopové krabice
+99005288	Krabica 400x400x300mm 5VL	Klopové krabice 5VL	2.5980	ks			10	10			7.032	1							Hnedá							400mm	400mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005289	Krabica 400x400x400mm 5VL	Klopové krabice 5VL	3.1300	ks			10	10			8.052	1							Hnedá							400mm	400mm	400mm				5	99005264						13-2 Kartónové klopové krabice
+99005290	Krabica 450x350x290mm 5VL	Klopové krabice 5VL	2.6820	ks			10	10			6.428	1							Hnedá							450mm	350mm	290mm				5	99005264						13-2 Kartónové klopové krabice
+99005291	Krabica 500x300x300mm 5VL	Klopové krabice 5VL	2.6220	ks			10	10			6.07	1							Hnedá							500mm	300mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005292	Krabica 500x400x300mm 5VL	Klopové krabice 5VL	2.9480	ks			10	10			7.873	1							Hnedá							500mm	400mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005293	Krabica 500x400x400mm 5VL	Klopové krabice 5VL	3.4520	ks			10	10			9.195	1							Hnedá							500mm	400mm	400mm				5	99005264						13-2 Kartónové klopové krabice
+99005294	Krabica 600x200x150mm 5VL	Klopové krabice 5VL	1.5840	ks			10	10			3.545	1							Hnedá							600mm	200mm	150mm				5	99005264						13-2 Kartónové klopové krabice
+99005295	Krabica 600x300x300mm 5VL	Klopové krabice 5VL	1.7240	ks			10	10			6.791	1							Hnedá							600mm	300mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005296	Krabica 600x400x300mm 5VL	Klopové krabice 5VL	3.5460	ks			10	10			8.714	1							Hnedá							600mm	400mm	300mm				5	99005264						13-2 Kartónové klopové krabice
+99005297	Krabica 600x400x400mm 5VL	Klopové krabice 5VL	3.9760	ks			10	10			10.21	1							Hnedá							600mm	400mm	400mm				5	99005264						13-2 Kartónové klopové krabice
+99005298	Krabica 800x600x500mm 5VL	Klopové krabice 5VL	7.9200	ks			10	10			19.05	1							Hnedá							800mm	600mm	500mm				5	99005264						13-2 Kartónové klopové krabice
+99005299	Poštová krabica 100x100x40mm 3VL	Poštové krabice	0.2220	ks			25	25			0.725	1							Hnedá										100mm	100mm	40mm	3	99005299	99005224	99002791	99001296	99000208	99003252	13-1 Zásielkové poštové krabice
+99005300	Poštová krabica 140x113x52mm 3VL	Poštové krabice	0.2220	ks			25	25			0.675	1							Hnedá										140mm	113mm	52mm	3	99005299						13-1 Zásielkové poštové krabice
+99005301	Poštová krabica 162x154x52mm 3VL	Poštové krabice	0.3360	ks			25	25			1.45	1							Hnedá										162mm	154mm	52mm	3	99005299						13-1 Zásielkové poštové krabice
+99005302	Poštová krabica 200x105x105mm 3VL	Poštové krabice	0.5040	ks			25	25			2.4	1							Hnedá										200mm	105mm	105mm	3	99005299						13-1 Zásielkové poštové krabice
+99005303	Poštová krabica 235x185x46mm 3VL	Poštové krabice	0.5540	ks			25	25			1.95	1							Hnedá										235mm	185mm	46mm	3	99005299						13-1 Zásielkové poštové krabice
+99005314	Poštová krabica 275x110x100mm 3VL	Poštové krabice	0.5760	ks			25	25			2.35	1							Hnedá										275mm	110mm	100mm	3	99005299						13-1 Zásielkové poštové krabice
+99005315	Poštová krabica 280x200x110mm 3VL	Poštové krabice	0.7100	ks			25	25			3.975	1							Hnedá										280mm	200mm	110mm	3	99005299						13-1 Zásielkové poštové krabice
+99005304	Poštová krabica 315x220x48mm 3VL	Poštové krabice	0.5380	ks			25	25			2.8	1							Hnedá										315mm	220mm	48mm	3	99005299						13-1 Zásielkové poštové krabice
+99005305	Lepenkový tubus 145x145x625mm 5VL Štvorhranný	Tubusové krabice	1.4000	ks			25	25			8.175	1							Biela										145mm	145mm	625mm	5	99005305	99000534	99002791	99001296	99000208	99003252	13-5 Tubusové krabice
+99005306	Lepenkový tubus 145x145x850mm 5VL Štvorhranný	Tubusové krabice	1.5640	ks			25	25			9.766	1							Biela										145mm	145mm	820mm	5	99005305						13-5 Tubusové krabice
+99005307	Lepenkový tubus 145x145x920mm 5VL Štvorhranný	Tubusové krabice	1.6400	ks			25	25			10.36	1							Biela										145mm	145mm	920mm	5	99005305						13-5 Tubusové krabice
+99005308	Lepenkový tubus 175x175x625mm 5VL Štvorhranný 	Tubusové krabice	1.4100	ks			25	25			9.7	1							Biela										175mm	175mm	625mm	5	99005305						13-5 Tubusové krabice
+99005309	Lepenkový tubus 175x175x920mm 5VL Štvorhranný	Tubusové krabice	1.6800	ks			25	25			12.62	1							Biela										175mm	175mm	920mm	5	99005305						13-5 Tubusové krabice
+99005310	Lepenkový tubus 95x95x640mm 3VL Štvorhranný	Tubusové krabice	1.0620	ks			25	25			3.175	1							Biela										95mm	95mm	640mm	3	99005305						13-5 Tubusové krabice
+99005311	Lepenkový tubus 95x95x955mm 3VL Štvorhranný	Tubusové krabice	1.2500	ks			25	25			4.35	1							Biela										95mm	95mm	955mm	3	99005305						13-5 Tubusové krabice
+99005312	Zákusková krabica 170x170x80mm 3VL Biela	Zákuskové krabice	0.3600	ks			15	15			0.68	1							Biela										170mm	170mm	80mm	3		99001592	99000086	99002720	99000341	99000208	13-4 Zákuskové krabice
+99005313	Zákusková krabica 270x180x90mm 3VL Biela	Zákuskové krabice	0.4400	ks			15	15			0.98	1							Biela										270mm	180mm	90mm	3		99001592	99000086	99002720	99000341	99000208	13-4 Zákuskové krabice
+99004615	Eurokartón 1178x780x800mm s výsekmi	Eurokartón	10.4000	ks			1	20			7	1							Hnedá										1178mm	780mm	800mm	5		99004616	99002193	99000539	99002175	99003989	13-3 Eurokartón
+99004637	Eurokartón 1187mmx780x1050mm s výsekmi	Eurokartón	11.2000	ks			1	20			8	1							Hnedá										1187mm	780mm	1050mm	5		99004638	99002193	99000539	99002175	99003989	13-3 Eurokartón
+99003095	Pneumatická sponkovačka 90/40	Kartonážne spony	344.0000	ks			1	1			5	1							Hnedá										780mm	1180mm				99000198	99001101	99001592	99000341	99000277	13-8 Kartonážne spony a sponky
+99001101	Papierová preložka 780x1180mm 3VL	Preložky	0.4900	ks			25	50			8	2	8						Hnedá															99005262	99001592	99002193	99000341	99000208	13-6 Preložky
+99005346	Hladká lepenka 800x1200mm 300g	Preložky	0.4300	ks			50	50			16	1							Hnedá															99005262	99001592	99002193	99000341	99000208	13-6 Preložky
+99001564	Zváračka fólie do 200mm s orezom	LDPE Primárne Hadicové fólie	129.0000	ks			1	1			2	1																						99004983	99004196	99000341	99001592	99000208	10-1 LDPE fólia
+99002405	Zváračka fólie do 300mm s orezom	LDPE Primárne Hadicové fólie	130.0000	ks			1	1			2	1																						99000513	99004196	99000341	99001592	99000208	10-1 LDPE fólia
+99000949	Zváračka fólie do 400mm s orezom	LDPE Primárne Hadicové fólie	139.0000	ks			1	1			2	1																						99000513	99004196	99000341	99001592	99000208	10-1 LDPE fólia
+99003328	Zváračka fólie do 500mm s orezom	LDPE Primárne Hadicové fólie	149.0000	ks			1	1			2	1																						99001788	99000513	99000341	99001592	99000208	10-1 LDPE fólia
+99004713	Zváračka fólie do 1000mm bez orezu	LDPE Primárne Hadicové fólie	185.0000	ks			1	1			2	1																						99002672	99003569	99000341	99001592	99000208	10-1 LDPE fólia
+99001597	Stojanová zváračka do 600mm	LDPE Primárne Hadicové fólie	435.0000	ks			1	1			20	1																						99000763	99000553	99000341	99001592	99000208	10-1 LDPE fólia
+*1	Slučka RS 1t 1/2m 	Slučky do 1000kg	6.4640	ks			1	1			1	1							Fialová			1000kg											*1	**1	99000472	99000988	99000586	99001107	
+	"Slučka RS 1t 1,5/3m"	Slučky do 1000kg	8.2560	ks			1	1			1	1							Fialová			1000kg											*1						
+	Slučka RS 1t 2/4m	Slučky do 1000kg	9.6640	ks			1	1			1	1							Fialová			1000kg											*1						
+	Slučka RS 1t 3/6m	Slučky do 1000kg	13.5040	ks			1	1			1	1							Fialová			1000kg											*1						
+	Slučka RS 1t 4/8m	Slučky do 1000kg	17.4400	ks			1	1			1	1							Fialová			1000kg											*1						
+	Slučka RS 1t 5/10m	Slučky do 1000kg	21.4080	ks			1	1			1	1							Fialová			1000kg											*1						
+	Slučka RS 1t 6/12m	Slučky do 1000kg	25.4080	ks			1	1			1	1							Fialová			1000kg											*1						
+	Slučka RS 1t 8/16m	Slučky do 1000kg	29.8240	ks			1	1			1	1							Fialová			1000kg											*1	**2	99000472	99000988	99000586	99001107	
+*2	Slučka RS 2t 1/2m 	Slučky do 2000kg	7.2960	ks			1	1			1	1							Zelená			2000kg											*2						
+	"Slučka RS 2t 1,5/3m"	Slučky do 2000kg	9.9520	ks			1	1			1	1							Zelená			2000kg											*2						
+	Slučka RS 2t 2/4m	Slučky do 2000kg	13.0240	ks			1	1			1	1							Zelená			2000kg											*2						
+	Slučka RS 2t 3/6m	Slučky do 2000kg	17.3440	ks			1	1			1	1							Zelená			2000kg											*2						
+	Slučka RS 2t 4/8m	Slučky do 2000kg	23.7440	ks			1	1			1	1							Zelená			2000kg											*2						
+	Slučka RS 2t 5/10m	Slučky do 2000kg	29.2480	ks			1	1			1	1							Zelená			2000kg											*2						
+	Slučka RS 2t 6/12m	Slučky do 2000kg	35.7440	ks			1	1			1	1							Zelená			2000kg											*2						
+	Slučka RS 2t 8/16m	Slučky do 2000kg	45.9520	ks			1	1			1	1							Zelená			2000kg											*2						
+*3	Slučka RS 3t 1/2m 	Slučky do 3000kg	8.8000	ks			1	1			1	1							Žltá			3000kg											*3	**3	99000472	99000988	99000586	99001107	
+	"Slučka RS 3t 1,5/3m"	Slučky do 3000kg	12.4160	ks			1	1			1	1							Žltá			3000kg											*3						
+	Slučka RS 3t 2/4m	Slučky do 3000kg	16.0320	ks			1	1			1	1							Žltá			3000kg											*3						
+	Slučka RS 3t 3/6m	Slučky do 3000kg	24.4800	ks			1	1			1	1							Žltá			3000kg											*3						
+	Slučka RS 3t 4/8m	Slučky do 3000kg	33.2160	ks			1	1			1	1							Žltá			3000kg											*3						
+	Slučka RS 3t 5/10m	Slučky do 3000kg	41.7600	ks			1	1			1	1							Žltá			3000kg											*3						
+	Slučka RS 3t 6/12m	Slučky do 3000kg	50.1440	ks			1	1			1	1							Žltá			3000kg											*3						
+	Slučka RS 3t 8/16m	Slučky do 3000kg	58.6240	ks			1	1			1	1							Žltá			3000kg											*3						
+*4	Slučka RS 4t 1/2m 	Slučky do 4000kg	11.4560	ks			1	1			1	1							Šedá			4000kg											*4	**4	99000472	99000988	99000586	99001107	
+	"Slučka RS 4t 1,5/3m"	Slučky do 4000kg	16.9280	ks			1	1			1	1							Šedá			4000kg											*4						
+	Slučka RS 4t 2/4m	Slučky do 4000kg	22.4000	ks			1	1			1	1							Šedá			4000kg											*4						
+	Slučka RS 4t 3/6m	Slučky do 4000kg	34.4960	ks			1	1			1	1							Šedá			4000kg											*4						
+	Slučka RS 4t 4/8m	Slučky do 4000kg	45.9520	ks			1	1			1	1							Šedá			4000kg											*4						
+	Slučka RS 4t 5/10m	Slučky do 4000kg	57.3760	ks			1	1			1	1							Šedá			4000kg											*4						
+	Slučka RS 4t 6/12m	Slučky do 4000kg	52.6720	ks			1	1			1	1							Šedá			4000kg											*4						
+	Slučka RS 4t 8/16m	Slučky do 4000kg	75.5840	ks			1	1			1	1							Šedá			4000kg											*4						
+*5	Slučka RS 5t 1/2m 	Slučky do 5000kg	16.7680	ks			1	1			1	1							Červená			5000kg											*5	**5	99000472	99000988	99000586	99001107	
+	"Slučka RS 5t 1,5/3m"	Slučky do 5000kg	24.5440	ks			1	1			1	1							Červená			5000kg											*5						
+	Slučka RS 5t 2/4m	Slučky do 5000kg	32.7680	ks			1	1			1	1							Červená			5000kg											*5						
+	Slučka RS 5t 3/6m	Slučky do 5000kg	50.5280	ks			1	1			1	1							Červená			5000kg											*5						
+	Slučka RS 5t 4/8m	Slučky do 5000kg	67.6800	ks			1	1			1	1							Červená			5000kg											*5						
+	Slučka RS 5t 5/10m	Slučky do 5000kg	82.4320	ks			1	1			1	1							Červená			5000kg											*5						
+	Slučka RS 5t 6/12m	Slučky do 5000kg	100.4800	ks			1	1			1	1							Červená			5000kg											*5						
+	Slučka RS 5t 8/16m	Slučky do 5000kg	211.6160	ks			1	1			1	1							Červená			5000kg											*5						
+*6	Slučka RS 6t 1/2m 	Slučky do 6000kg	28.0320	ks			1	1			1	1							Hnedá			6000kg											*6	**6	99000472	99000988	99000586	99001107	
+	"Slučka RS 6t 1,5/3m"	Slučky do 6000kg	35.2000	ks			1	1			1	1							Hnedá			6000kg											*6						
+	Slučka RS 6t 2/4m	Slučky do 6000kg	56.8320	ks			1	1			1	1							Hnedá			6000kg											*6						
+	Slučka RS 6t 3/6m	Slučky do 6000kg	77.1840	ks			1	1			1	1							Hnedá			6000kg											*6						
+	Slučka RS 6t 4/8m	Slučky do 6000kg	101.2800	ks			1	1			1	1							Hnedá			6000kg											*6						
+	Slučka RS 6t 5/10m	Slučky do 6000kg	122.2720	ks			1	1			1	1							Hnedá			6000kg											*6						
+	Slučka RS 6t 6/12m	Slučky do 6000kg	149.9520	ks			1	1			1	1							Hnedá			6000kg											*6						
+	Slučka RS 6t 8/16m	Slučky do 6000kg	183.4880	ks			1	1			1	1							Hnedá			6000kg											*6						
+*8	Slučka RS 8t 2/4m	Slučky do 8000kg	61.7920	ks			1	1			1	1							Modrá			8000kg											*8	**8	99000472	99000988	99000586	99001107	
+	Slučka RS 8t 3/6m	Slučky do 8000kg	82.6240	ks			1	1			1	1							Modrá			8000kg											*8						
+	Slučka RS 8t 4/8m	Slučky do 8000kg	110.0800	ks			1	1			1	1							Modrá			8000kg											*8						
+	Slučka RS 8t 5/10m	Slučky do 8000kg	133.4720	ks			1	1			1	1							Modrá			8000kg											*8						
+	Slučka RS 8t 6/12m	Slučky do 8000kg	161.3440	ks			1	1			1	1							Modrá			8000kg											*8						
+	Slučka RS 8t 8/16m	Slučky do 8000kg	185.5360	ks			1	1			1	1							Modrá			8000kg											*8						
+*10	Slučka RS 10t 2/4m	Slučky do 10000kg	74.3040	ks			1	1			1	1							Oranžová			10000kg											*10	**10	99000472	99000988	99000586	99001107	
+	Slučka RS 10t 3/6m	Slučky do 10000kg	109.8240	ks			1	1			1	1							Oranžová			10000kg											*10						
+	Slučka RS 10t 4/8m	Slučky do 10000kg	153.5680	ks			1	1			1	1							Oranžová			10000kg											*10						
+	Slučka RS 10t 5/10m	Slučky do 10000kg	192.1280	ks			1	1			1	1							Oranžová			10000kg											*10						
+	Slučka RS 10t 6/12m	Slučky do 10000kg	211.6160	ks			1	1			1	1							Oranžová			10000kg											*10						
+	Slučka RS 10t 8/16m	Slučky do 10000kg	236.4480	ks			1	1			1	1							Oranžová			10000kg											*10						
+**1	Popruh 1t 1m 30mm 	Popruhy do 1000kg	4.1920	ks			1	1			1	1				30mm			Fialová			1000kg											**1	*1	99000472	99000988	99000586	99001107	
+	Popruh 1t 2m 30mm 	Popruhy do 1000kg	6.8800	ks			1	1			1	1				30mm			Fialová			1000kg											**1						
+	Popruh 1t 3m 30mm 	Popruhy do 1000kg	9.9520	ks			1	1			1	1				30mm			Fialová			1000kg											**1						
+	Popruh 1t 4m 30mm 	Popruhy do 1000kg	12.4480	ks			1	1			1	1				30mm			Fialová			1000kg											**1						
+	Popruh 1t 5m 30mm 	Popruhy do 1000kg	16.8640	ks			1	1			1	1				30mm			Fialová			1000kg											**1						
+	Popruh 1t 6m 30mm 	Popruhy do 1000kg	20.0640	ks			1	1			1	1				30mm			Fialová			1000kg											**1						
+	Popruh 1t 8m 30mm 	Popruhy do 1000kg	25.9840	ks			1	1			1	1				30mm			Fialová			1000kg											**1						
+**2	Popruh 2t 1m 60mm 	Popruhy do 2000kg	7.9360	ks			1	1			1	1				60mm			Zelená			2000kg											**2	*2	99000472	99000988	99000586	99001107	
+	Popruh 2t 2m 60mm 	Popruhy do 2000kg	13.6640	ks			1	1			1	1				60mm			Zelená			2000kg											**2						
+	Popruh 2t 3m 60mm 	Popruhy do 2000kg	19.5520	ks			1	1			1	1				60mm			Zelená			2000kg											**2						
+	Popruh 2t 4m 60mm 	Popruhy do 2000kg	26.0160	ks			1	1			1	1				60mm			Zelená			2000kg											**2						
+	Popruh 2t 5m 60mm 	Popruhy do 2000kg	32.1920	ks			1	1			1	1				60mm			Zelená			2000kg											**2						
+	Popruh 2t 6m 60mm 	Popruhy do 2000kg	38.2080	ks			1	1			1	1				60mm			Zelená			2000kg											**2						
+	Popruh 2t 8m 60mm 	Popruhy do 2000kg	51.9040	ks			1	1			1	1				60mm			Zelená			2000kg											**2						
+**3	Popruh 3t 1m 90mm 	Popruhy do 3000kg	12.0000	ks			1	1			1	1				90mm			Žltá			3000kg											**3	*3	99000472	99000988	99000586	99001107	
+	Popruh 3t 2m 90mm 	Popruhy do 3000kg	21.0240	ks			1	1			1	1				90mm			Žltá			3000kg											**3						
+	Popruh 3t 3m 90mm 	Popruhy do 3000kg	30.9760	ks			1	1			1	1				90mm			Žltá			3000kg											**3						
+	Popruh 3t 4m 90mm 	Popruhy do 3000kg	40.3200	ks			1	1			1	1				90mm			Žltá			3000kg											**3						
+	Popruh 3t 5m 90mm 	Popruhy do 3000kg	49.7600	ks			1	1			1	1				90mm			Žltá			3000kg											**3						
+	Popruh 3t 6m 90mm 	Popruhy do 3000kg	59.2640	ks			1	1			1	1				90mm			Žltá			3000kg											**3						
+	Popruh 3t 8m 90mm 	Popruhy do 3000kg	73.2480	ks			1	1			1	1				90mm			Žltá			3000kg											**3						
+**4	Popruh 4t 2m 120mm 	Popruhy do 4000kg	29.4080	ks			1	1			1	1				120mm			Šedá			4000kg											**4	*4	99000472	99000988	99000586	99001107	
+	Popruh 4t 3m 120mm 	Popruhy do 4000kg	42.3680	ks			1	1			1	1				120mm			Šedá			4000kg											**4						
+	Popruh 4t 4m 120mm 	Popruhy do 4000kg	55.4560	ks			1	1			1	1				120mm			Šedá			4000kg											**4						
+	Popruh 4t 5m 120mm 	Popruhy do 4000kg	68.4480	ks			1	1			1	1				120mm			Šedá			4000kg											**4						
+	Popruh 4t 6m 120mm 	Popruhy do 4000kg	79.8720	ks			1	1			1	1				120mm			Šedá			4000kg											**4						
+	Popruh 4t 8m 120mm 	Popruhy do 4000kg	91.6480	ks			1	1			1	1				120mm			Šedá			4000kg											**4						
+**5	Popruh 5t 2m 150mm 	Popruhy do 5000kg	38.7520	ks			1	1			1	1				150mm			Červená			5000kg											**5	*5	99000472	99000988	99000586	99001107	
+	Popruh 5t 3m 150mm 	Popruhy do 5000kg	54.7200	ks			1	1			1	1				150mm			Červená			5000kg											**5						
+	Popruh 5t 4m 150mm 	Popruhy do 5000kg	68.3520	ks			1	1			1	1				150mm			Červená			5000kg											**5						
+	Popruh 5t 5m 150mm 	Popruhy do 5000kg	84.6080	ks			1	1			1	1				150mm			Červená			5000kg											**5						
+	Popruh 5t 6m 150mm 	Popruhy do 5000kg	100.5120	ks			1	1			1	1				150mm			Červená			5000kg											**5						
+	Popruh 5t 8m 150mm 	Popruhy do 5000kg	128.5760	ks			1	1			1	1				150mm			Červená			5000kg											**5						
+**6	Popruh 6t 2m 180mm 	Popruh do 6000kg	42.8800	ks			1	1			1	1				180mm			Hnedá			6000kg											**6	*6	99000472	99000988	99000586	99001107	
+	Popruh 6t 3m 180mm 	Popruh do 6000kg	70.8800	ks			1	1			1	1				180mm			Hnedá			6000kg											**6						
+	Popruh 6t 4m 180mm 	Popruh do 6000kg	91.8080	ks			1	1			1	1				180mm			Hnedá			6000kg											**6						
+	Popruh 6t 5m 180mm 	Popruh do 6000kg	112.7680	ks			1	1			1	1				180mm			Hnedá			6000kg											**6						
+	Popruh 6t 6m 180mm 	Popruh do 6000kg	133.6320	ks			1	1			1	1				180mm			Hnedá			6000kg											**6						
+	Popruh 6t 8m 180mm 	Popruh do 6000kg	158.6560	ks			1	1			1	1				180mm			Hnedá			6000kg											**6						
+**8	Popruh 8t 2m 240mm 	Popruh do 8000kg	64.7680	ks			1	1			1	1				240mm			Modrá			8000kg											**8	*8	99000472	99000988	99000586	99001107	
+	Popruh 8t 3m 240mm 	Popruh do 8000kg	102.0800	ks			1	1			1	1				240mm			Modrá			8000kg											**8						
+	Popruh 8t 4m 240mm 	Popruh do 8000kg	131.0720	ks			1	1			1	1				240mm			Modrá			8000kg											**8						
+	Popruh 8t 5m 240mm 	Popruh do 8000kg	160.0000	ks			1	1			1	1				240mm			Modrá			8000kg											**8						
+	Popruh 8t 6m 240mm 	Popruh do 8000kg	188.9920	ks			1	1			1	1				240mm			Modrá			8000kg											**8						
+	Popruh 8t 8m 240mm 	Popruh do 8000kg	231.0720	ks			1	1			1	1				240mm			Modrá			8000kg											**8						
+**10	Popruh 10t 4m 300mm 	Popruh do 10000kg	165.2800	ks			1	1			1	1				300mm			Oranžová			10000kg											**10	*10	99000472	99000988	99000586	99001107	
+	Popruh 10t 5m 300mm 	Popruh do 10000kg	201.6000	ks			1	1			1	1				300mm			Oranžová			10000kg											**10						
+	Popruh 10t 6m 300mm 	Popruh do 10000kg	238.1120	ks			1	1			1	1				300mm			Oranžová			10000kg											**10						
+	Popruh 10t 8m 300mm 	Popruh do 10000kg	339.9360	ks			1	1			1	1				300mm			Oranžová			10000kg											**10						
+																300mm			Oranžová			10000kg																	
+																300mm			Oranžová			10000kg																	
